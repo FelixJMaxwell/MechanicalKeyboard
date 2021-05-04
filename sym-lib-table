@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Type-C)(type Legacy)(uri "${KIPRJMOD}/Kicad Footprints/Type-C.lib")(options "")(descr ""))
+  (lib (name PRTR)(type Legacy)(uri C:/Users/Legion/Downloads/Lily58+High-Profile+Case/kicad-develop@f129f1994c1/SchematicParts/prtr5v0u2x.lib)(options "")(descr ""))
+  (lib (name ai03)(type Legacy)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name oled)(type Legacy)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/oled/kbd.lib")(options "")(descr ""))
+)
