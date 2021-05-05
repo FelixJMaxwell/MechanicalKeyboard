@@ -550,298 +550,283 @@ $EndComp
 $Comp
 L Simulation_SPICE:DIODE D5
 U 1 1 609FC882
-P 2700 1950
-F 0 "D5" V 2650 1750 50  0000 L CNN
-F 1 "DIODE" V 2750 1650 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 2700 1950 50  0001 C CNN
-F 3 "~" H 2700 1950 50  0001 C CNN
-F 4 "Y" H 2700 1950 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 2700 1950 50  0001 L CNN "Spice_Primitive"
-	1    2700 1950
+P 4200 1600
+F 0 "D5" V 4150 1400 50  0000 L CNN
+F 1 "DIODE" V 4250 1300 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 4200 1600 50  0001 C CNN
+F 3 "~" H 4200 1600 50  0001 C CNN
+F 4 "Y" H 4200 1600 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 4200 1600 50  0001 L CNN "Spice_Primitive"
+	1    4200 1600
 	0    1    1    0   
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D9
 U 1 1 609FC895
-P 3750 1900
-F 0 "D9" V 3700 1700 50  0000 L CNN
-F 1 "DIODE" V 3800 1600 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 3750 1900 50  0001 C CNN
-F 3 "~" H 3750 1900 50  0001 C CNN
-F 4 "Y" H 3750 1900 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 3750 1900 50  0001 L CNN "Spice_Primitive"
-	1    3750 1900
+P 3450 1600
+F 0 "D9" V 3400 1400 50  0000 L CNN
+F 1 "DIODE" V 3500 1300 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 3450 1600 50  0001 C CNN
+F 3 "~" H 3450 1600 50  0001 C CNN
+F 4 "Y" H 3450 1600 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 3450 1600 50  0001 L CNN "Spice_Primitive"
+	1    3450 1600
 	0    1    1    0   
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D14
 U 1 1 609FC8A8
-P 4900 1800
-F 0 "D14" V 4850 1600 50  0000 L CNN
-F 1 "DIODE" V 4950 1500 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 4900 1800 50  0001 C CNN
-F 3 "~" H 4900 1800 50  0001 C CNN
-F 4 "Y" H 4900 1800 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 4900 1800 50  0001 L CNN "Spice_Primitive"
-	1    4900 1800
+P 2800 1600
+F 0 "D14" V 2750 1400 50  0000 L CNN
+F 1 "DIODE" V 2850 1300 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 2800 1600 50  0001 C CNN
+F 3 "~" H 2800 1600 50  0001 C CNN
+F 4 "Y" H 2800 1600 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 2800 1600 50  0001 L CNN "Spice_Primitive"
+	1    2800 1600
 	0    1    1    0   
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D6
 U 1 1 609FC8CB
-P 2700 2700
-F 0 "D6" V 2650 2500 50  0000 L CNN
-F 1 "DIODE" V 2750 2400 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 2700 2700 50  0001 C CNN
-F 3 "~" H 2700 2700 50  0001 C CNN
-F 4 "Y" H 2700 2700 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 2700 2700 50  0001 L CNN "Spice_Primitive"
-	1    2700 2700
+P 4950 2300
+F 0 "D6" V 4900 2100 50  0000 L CNN
+F 1 "DIODE" V 5000 2000 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 4950 2300 50  0001 C CNN
+F 3 "~" H 4950 2300 50  0001 C CNN
+F 4 "Y" H 4950 2300 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 4950 2300 50  0001 L CNN "Spice_Primitive"
+	1    4950 2300
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW11
 U 1 1 609FC8D6
-P 4300 2350
-F 0 "SW11" H 4300 2635 50  0000 C CNN
-F 1 "9" H 4300 2544 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 4300 2550 50  0001 C CNN
-F 3 "~" H 4300 2550 50  0001 C CNN
-	1    4300 2350
+P 4400 2150
+F 0 "SW11" H 4400 2435 50  0000 C CNN
+F 1 "9" H 4400 2344 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 4400 2350 50  0001 C CNN
+F 3 "~" H 4400 2350 50  0001 C CNN
+	1    4400 2150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D10
 U 1 1 609FC8DE
-P 3750 2700
-F 0 "D10" V 3700 2500 50  0000 L CNN
-F 1 "DIODE" V 3800 2400 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 3750 2700 50  0001 C CNN
-F 3 "~" H 3750 2700 50  0001 C CNN
-F 4 "Y" H 3750 2700 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 3750 2700 50  0001 L CNN "Spice_Primitive"
-	1    3750 2700
+P 3450 2300
+F 0 "D10" V 3400 2100 50  0000 L CNN
+F 1 "DIODE" V 3500 2000 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 3450 2300 50  0001 C CNN
+F 3 "~" H 3450 2300 50  0001 C CNN
+F 4 "Y" H 3450 2300 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 3450 2300 50  0001 L CNN "Spice_Primitive"
+	1    3450 2300
 	0    1    1    0   
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D2
 U 1 1 609FC8F1
-P 1550 3400
-F 0 "D2" V 1500 3200 50  0000 L CNN
-F 1 "DIODE" V 1600 3100 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 1550 3400 50  0001 C CNN
-F 3 "~" H 1550 3400 50  0001 C CNN
-F 4 "Y" H 1550 3400 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 1550 3400 50  0001 L CNN "Spice_Primitive"
-	1    1550 3400
+P 4200 3000
+F 0 "D2" V 4150 2800 50  0000 L CNN
+F 1 "DIODE" V 4250 2700 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 4200 3000 50  0001 C CNN
+F 3 "~" H 4200 3000 50  0001 C CNN
+F 4 "Y" H 4200 3000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 4200 3000 50  0001 L CNN "Spice_Primitive"
+	1    4200 3000
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW8
 U 1 1 609FC8FB
-P 3200 3100
-F 0 "SW8" H 3200 3385 50  0000 C CNN
-F 1 "5" H 3200 3294 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 3200 3300 50  0001 C CNN
-F 3 "~" H 3200 3300 50  0001 C CNN
-	1    3200 3100
+P 3650 2850
+F 0 "SW8" H 3650 3135 50  0000 C CNN
+F 1 "5" H 3650 3044 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 3650 3050 50  0001 C CNN
+F 3 "~" H 3650 3050 50  0001 C CNN
+	1    3650 2850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D7
 U 1 1 609FC903
-P 2700 3400
-F 0 "D7" V 2650 3200 50  0000 L CNN
-F 1 "DIODE" V 2750 3100 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 2700 3400 50  0001 C CNN
-F 3 "~" H 2700 3400 50  0001 C CNN
-F 4 "Y" H 2700 3400 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 2700 3400 50  0001 L CNN "Spice_Primitive"
-	1    2700 3400
+P 3450 3000
+F 0 "D7" V 3400 2800 50  0000 L CNN
+F 1 "DIODE" V 3500 2700 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 3450 3000 50  0001 C CNN
+F 3 "~" H 3450 3000 50  0001 C CNN
+F 4 "Y" H 3450 3000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 3450 3000 50  0001 L CNN "Spice_Primitive"
+	1    3450 3000
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW12
 U 1 1 609FC90D
-P 4300 3050
-F 0 "SW12" H 4300 3335 50  0000 C CNN
-F 1 "6" H 4300 3244 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 4300 3250 50  0001 C CNN
-F 3 "~" H 4300 3250 50  0001 C CNN
-	1    4300 3050
+P 4400 2850
+F 0 "SW12" H 4400 3135 50  0000 C CNN
+F 1 "6" H 4400 3044 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 4400 3050 50  0001 C CNN
+F 3 "~" H 4400 3050 50  0001 C CNN
+	1    4400 2850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D11
 U 1 1 609FC915
-P 3750 3400
-F 0 "D11" V 3700 3200 50  0000 L CNN
-F 1 "DIODE" V 3800 3100 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 3750 3400 50  0001 C CNN
-F 3 "~" H 3750 3400 50  0001 C CNN
-F 4 "Y" H 3750 3400 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 3750 3400 50  0001 L CNN "Spice_Primitive"
-	1    3750 3400
+P 2700 3000
+F 0 "D11" V 2650 2800 50  0000 L CNN
+F 1 "DIODE" V 2750 2700 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 2700 3000 50  0001 C CNN
+F 3 "~" H 2700 3000 50  0001 C CNN
+F 4 "Y" H 2700 3000 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 2700 3000 50  0001 L CNN "Spice_Primitive"
+	1    2700 3000
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW4
 U 1 1 609FC91F
-P 2050 3750
-F 0 "SW4" H 2050 4035 50  0000 C CNN
-F 1 "1" H 2050 3944 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 2050 3950 50  0001 C CNN
-F 3 "~" H 2050 3950 50  0001 C CNN
-	1    2050 3750
+P 2900 3550
+F 0 "SW4" H 2900 3835 50  0000 C CNN
+F 1 "1" H 2900 3744 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 2900 3750 50  0001 C CNN
+F 3 "~" H 2900 3750 50  0001 C CNN
+	1    2900 3550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D3
 U 1 1 609FC927
-P 1550 4050
-F 0 "D3" V 1500 3850 50  0000 L CNN
-F 1 "DIODE" V 1600 3750 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 1550 4050 50  0001 C CNN
-F 3 "~" H 1550 4050 50  0001 C CNN
-F 4 "Y" H 1550 4050 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 1550 4050 50  0001 L CNN "Spice_Primitive"
-	1    1550 4050
+P 4200 3700
+F 0 "D3" V 4150 3500 50  0000 L CNN
+F 1 "DIODE" V 4250 3400 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 4200 3700 50  0001 C CNN
+F 3 "~" H 4200 3700 50  0001 C CNN
+F 4 "Y" H 4200 3700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 4200 3700 50  0001 L CNN "Spice_Primitive"
+	1    4200 3700
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW9
 U 1 1 609FC945
-P 3200 3750
-F 0 "SW9" H 3200 4035 50  0000 C CNN
-F 1 "2" H 3200 3944 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 3200 3950 50  0001 C CNN
-F 3 "~" H 3200 3950 50  0001 C CNN
-	1    3200 3750
+P 3650 3550
+F 0 "SW9" H 3650 3835 50  0000 C CNN
+F 1 "2" H 3650 3744 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 3650 3750 50  0001 C CNN
+F 3 "~" H 3650 3750 50  0001 C CNN
+	1    3650 3550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D8
 U 1 1 609FC94D
-P 2700 4050
-F 0 "D8" V 2650 3850 50  0000 L CNN
-F 1 "DIODE" V 2750 3750 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 2700 4050 50  0001 C CNN
-F 3 "~" H 2700 4050 50  0001 C CNN
-F 4 "Y" H 2700 4050 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 2700 4050 50  0001 L CNN "Spice_Primitive"
-	1    2700 4050
+P 3450 3700
+F 0 "D8" V 3400 3500 50  0000 L CNN
+F 1 "DIODE" V 3500 3400 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 3450 3700 50  0001 C CNN
+F 3 "~" H 3450 3700 50  0001 C CNN
+F 4 "Y" H 3450 3700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 3450 3700 50  0001 L CNN "Spice_Primitive"
+	1    3450 3700
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW13
 U 1 1 609FC957
-P 4300 3700
-F 0 "SW13" H 4300 3985 50  0000 C CNN
-F 1 "3" H 4300 3894 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 4300 3900 50  0001 C CNN
-F 3 "~" H 4300 3900 50  0001 C CNN
-	1    4300 3700
+P 4400 3550
+F 0 "SW13" H 4400 3835 50  0000 C CNN
+F 1 "3" H 4400 3744 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 4400 3750 50  0001 C CNN
+F 3 "~" H 4400 3750 50  0001 C CNN
+	1    4400 3550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D12
 U 1 1 609FC95F
-P 3750 4050
-F 0 "D12" V 3700 3850 50  0000 L CNN
-F 1 "DIODE" V 3800 3750 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 3750 4050 50  0001 C CNN
-F 3 "~" H 3750 4050 50  0001 C CNN
-F 4 "Y" H 3750 4050 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 3750 4050 50  0001 L CNN "Spice_Primitive"
-	1    3750 4050
+P 2700 3700
+F 0 "D12" V 2650 3500 50  0000 L CNN
+F 1 "DIODE" V 2750 3400 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 2700 3700 50  0001 C CNN
+F 3 "~" H 2700 3700 50  0001 C CNN
+F 4 "Y" H 2700 3700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 2700 3700 50  0001 L CNN "Spice_Primitive"
+	1    2700 3700
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW14
 U 1 1 609FC97B
-P 4300 4350
-F 0 "SW14" H 4300 4635 50  0000 C CNN
-F 1 "." H 4300 4544 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 4300 4550 50  0001 C CNN
-F 3 "~" H 4300 4550 50  0001 C CNN
-	1    4300 4350
+P 4400 4250
+F 0 "SW14" H 4400 4535 50  0000 C CNN
+F 1 "." H 4400 4444 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 4400 4450 50  0001 C CNN
+F 3 "~" H 4400 4450 50  0001 C CNN
+	1    4400 4250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D13
 U 1 1 609FC983
-P 3750 4700
-F 0 "D13" V 3700 4500 50  0000 L CNN
-F 1 "DIODE" V 3800 4400 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 3750 4700 50  0001 C CNN
-F 3 "~" H 3750 4700 50  0001 C CNN
-F 4 "Y" H 3750 4700 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 3750 4700 50  0001 L CNN "Spice_Primitive"
-	1    3750 4700
+P 4200 4400
+F 0 "D13" V 4150 4200 50  0000 L CNN
+F 1 "DIODE" V 4250 4100 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 4200 4400 50  0001 C CNN
+F 3 "~" H 4200 4400 50  0001 C CNN
+F 4 "Y" H 4200 4400 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 4200 4400 50  0001 L CNN "Spice_Primitive"
+	1    4200 4400
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW16
 U 1 1 609FC991
-P 5450 2250
-F 0 "SW16" H 5450 2535 50  0000 C CNN
-F 1 "+" H 5450 2444 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 5450 2450 50  0001 C CNN
-F 3 "~" H 5450 2450 50  0001 C CNN
-	1    5450 2250
+P 5150 2150
+F 0 "SW16" H 5150 2435 50  0000 C CNN
+F 1 "+" H 5150 2344 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 5150 2350 50  0001 C CNN
+F 3 "~" H 5150 2350 50  0001 C CNN
+	1    5150 2150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D15
 U 1 1 609FC999
-P 4900 2600
-F 0 "D15" V 4850 2400 50  0000 L CNN
-F 1 "DIODE" V 4950 2300 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 4900 2600 50  0001 C CNN
-F 3 "~" H 4900 2600 50  0001 C CNN
-F 4 "Y" H 4900 2600 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 4900 2600 50  0001 L CNN "Spice_Primitive"
-	1    4900 2600
+P 2700 2300
+F 0 "D15" V 2650 2100 50  0000 L CNN
+F 1 "DIODE" V 2750 2000 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 2700 2300 50  0001 C CNN
+F 3 "~" H 2700 2300 50  0001 C CNN
+F 4 "Y" H 2700 2300 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 2700 2300 50  0001 L CNN "Spice_Primitive"
+	1    2700 2300
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW17
 U 1 1 609FC9A0
-P 5350 4350
-F 0 "SW17" H 5350 4635 50  0000 C CNN
-F 1 "Enter" H 5350 4544 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 5350 4550 50  0001 C CNN
-F 3 "~" H 5350 4550 50  0001 C CNN
-	1    5350 4350
+P 5150 3550
+F 0 "SW17" H 5150 3835 50  0000 C CNN
+F 1 "Enter" H 5150 3744 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 5150 3750 50  0001 C CNN
+F 3 "~" H 5150 3750 50  0001 C CNN
+	1    5150 3550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D16
 U 1 1 609FC9A8
-P 4800 4700
-F 0 "D16" V 4750 4500 50  0000 L CNN
-F 1 "DIODE" V 4850 4400 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 4800 4700 50  0001 C CNN
-F 3 "~" H 4800 4700 50  0001 C CNN
-F 4 "Y" H 4800 4700 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 4800 4700 50  0001 L CNN "Spice_Primitive"
-	1    4800 4700
+P 4950 3700
+F 0 "D16" V 4900 3500 50  0000 L CNN
+F 1 "DIODE" V 5000 3400 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 4950 3700 50  0001 C CNN
+F 3 "~" H 4950 3700 50  0001 C CNN
+F 4 "Y" H 4950 3700 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 4950 3700 50  0001 L CNN "Spice_Primitive"
+	1    4950 3700
 	0    1    1    0   
-$EndComp
-Wire Wire Line
-	1600 1250 1100 1250
-Wire Wire Line
-	1100 1250 1100 1400
-$Comp
-L power:GND #PWR0117
-U 1 1 60AD5CB0
-P 1100 1400
-F 0 "#PWR0117" H 1100 1150 50  0001 C CNN
-F 1 "GND" H 1105 1227 50  0000 C CNN
-F 2 "" H 1100 1400 50  0001 C CNN
-F 3 "" H 1100 1400 50  0001 C CNN
-	1    1100 1400
-	1    0    0    -1  
 $EndComp
 $Comp
 L ai03:PRTR5V0U2X U2
@@ -914,45 +899,34 @@ Wire Wire Line
 $Comp
 L Switch:SW_Push SW7
 U 1 1 609FC8C3
-P 3200 2400
-F 0 "SW7" H 3200 2685 50  0000 C CNN
-F 1 "8" H 3200 2594 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 3200 2600 50  0001 C CNN
-F 3 "~" H 3200 2600 50  0001 C CNN
-	1    3200 2400
+P 3650 2150
+F 0 "SW7" H 3650 2435 50  0000 C CNN
+F 1 "8" H 3650 2344 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 3650 2350 50  0001 C CNN
+F 3 "~" H 3650 2350 50  0001 C CNN
+	1    3650 2150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW10
 U 1 1 609FC88D
-P 4300 1550
-F 0 "SW10" H 4300 1835 50  0000 C CNN
-F 1 "*" H 4300 1744 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 4300 1750 50  0001 C CNN
-F 3 "~" H 4300 1750 50  0001 C CNN
-	1    4300 1550
+P 4400 1450
+F 0 "SW10" H 4400 1735 50  0000 C CNN
+F 1 "*" H 4400 1644 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 4400 1650 50  0001 C CNN
+F 3 "~" H 4400 1650 50  0001 C CNN
+	1    4400 1450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW6
 U 1 1 609FC87A
-P 3200 1650
-F 0 "SW6" H 3200 1935 50  0000 C CNN
-F 1 "/" H 3200 1844 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 3200 1850 50  0001 C CNN
-F 3 "~" H 3200 1850 50  0001 C CNN
-	1    3200 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Rotary_Encoder_Switch SW1
-U 1 1 608FE6C2
-P 1900 1250
-F 0 "SW1" H 1900 1617 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" H 1900 1526 50  0000 C CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 1750 1410 50  0001 C CNN
-F 3 "~" H 1900 1510 50  0001 C CNN
-	1    1900 1250
+P 3650 1450
+F 0 "SW6" H 3650 1735 50  0000 C CNN
+F 1 "/" H 3650 1644 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 3650 1650 50  0001 C CNN
+F 3 "~" H 3650 1650 50  0001 C CNN
+	1    3650 1450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -976,40 +950,27 @@ Connection ~ 1950 6100
 Wire Wire Line
 	1700 5500 2000 5500
 $Comp
-L Simulation_SPICE:DIODE D17
-U 1 1 60B37CC5
-P 1700 1900
-F 0 "D17" V 1650 1700 50  0000 L CNN
-F 1 "DIODE" V 1750 1600 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 1700 1900 50  0001 C CNN
-F 3 "~" H 1700 1900 50  0001 C CNN
-F 4 "Y" H 1700 1900 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 1700 1900 50  0001 L CNN "Spice_Primitive"
-	1    1700 1900
-	0    1    1    0   
-$EndComp
-$Comp
 L Switch:SW_Push SW2
 U 1 1 609FC8B0
-P 2050 2400
-F 0 "SW2" H 2050 2685 50  0000 C CNN
-F 1 "7" H 2050 2594 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 2050 2600 50  0001 C CNN
-F 3 "~" H 2050 2600 50  0001 C CNN
-	1    2050 2400
+P 2900 2150
+F 0 "SW2" H 2900 2435 50  0000 C CNN
+F 1 "7" H 2900 2344 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 2900 2350 50  0001 C CNN
+F 3 "~" H 2900 2350 50  0001 C CNN
+	1    2900 2150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Simulation_SPICE:DIODE D1
 U 1 1 609FC8B8
-P 1550 2700
-F 0 "D1" V 1500 2500 50  0000 L CNN
-F 1 "DIODE" V 1600 2400 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 1550 2700 50  0001 C CNN
-F 3 "~" H 1550 2700 50  0001 C CNN
-F 4 "Y" H 1550 2700 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 1550 2700 50  0001 L CNN "Spice_Primitive"
-	1    1550 2700
+P 4200 2300
+F 0 "D1" V 4150 2100 50  0000 L CNN
+F 1 "DIODE" V 4250 2000 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 4200 2300 50  0001 C CNN
+F 3 "~" H 4200 2300 50  0001 C CNN
+F 4 "Y" H 4200 2300 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 4200 2300 50  0001 L CNN "Spice_Primitive"
+	1    4200 2300
 	0    1    1    0   
 $EndComp
 NoConn ~ 9100 3150
@@ -1037,37 +998,37 @@ F 3 "" H 10900 5250 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	10900 5050 10900 5250
-Text GLabel 10300 5450 2    50   Input ~ 0
-col0
-Text GLabel 10300 5350 2    50   Input ~ 0
-col1
-Text GLabel 10300 5250 2    50   Input ~ 0
-col2
 Text GLabel 10300 5150 2    50   Input ~ 0
+col0
+Text GLabel 10300 5250 2    50   Input ~ 0
+col1
+Text GLabel 10300 5350 2    50   Input ~ 0
+col2
+Text GLabel 10300 5450 2    50   Input ~ 0
 col3
-Text GLabel 10300 4650 2    50   Input ~ 0
-row0
 Text GLabel 10300 3550 2    50   Input ~ 0
-row1
+ROW0
 Text GLabel 10300 3450 2    50   Input ~ 0
-row2
+ROW1
 Text GLabel 10300 3150 2    50   Input ~ 0
-row3
+ROW2
 Text GLabel 10300 3050 2    50   Input ~ 0
-row4
+ROW3
+Text GLabel 10300 2950 2    50   Input ~ 0
+ROW4
 Text GLabel 10300 2550 2    50   Input ~ 0
 scl
 Text GLabel 10300 2650 2    50   Input ~ 0
 sda
 Text GLabel 10300 4950 2    50   Input ~ 0
 en1
-Text GLabel 10300 4150 2    50   Input ~ 0
+Text GLabel 10300 3250 2    50   Input ~ 0
 miso
-Text GLabel 10300 4450 2    50   Input ~ 0
+Text GLabel 10300 2750 2    50   Input ~ 0
 mosi
 Text GLabel 10300 5050 2    50   Input ~ 0
 en2
-Text GLabel 10300 4350 2    50   Input ~ 0
+Text GLabel 10300 2850 2    50   Input ~ 0
 sck
 Connection ~ 9700 2250
 Wire Wire Line
@@ -1103,24 +1064,14 @@ Text GLabel 9100 3550 0    50   Input ~ 0
 D+
 Text GLabel 9100 3650 0    50   Input ~ 0
 D-
-Text GLabel 5650 1450 1    50   Input ~ 0
-col3
-Text GLabel 4500 1550 1    50   Input ~ 0
-col2
-Text GLabel 3400 1650 1    50   Input ~ 0
-col1
-Text GLabel 1550 2850 0    50   Input ~ 0
-row1
-Text GLabel 1550 3550 0    50   Input ~ 0
-row2
-Text GLabel 1550 4200 0    50   Input ~ 0
-row3
-Text GLabel 1700 2050 0    50   Input ~ 0
-row0
-Text GLabel 1600 1350 0    50   Input ~ 0
-en1
-Text GLabel 1600 1150 0    50   Input ~ 0
-en2
+Text GLabel 2700 2450 0    50   Input ~ 0
+ROW1
+Text GLabel 2700 3150 0    50   Input ~ 0
+ROW2
+Text GLabel 2700 3850 0    50   Input ~ 0
+ROW3
+Text GLabel 2800 1750 0    50   Input ~ 0
+ROW0
 Text GLabel 4250 6000 2    50   Input ~ 0
 D-
 Text GLabel 4250 6100 2    50   Input ~ 0
@@ -1148,174 +1099,175 @@ Text GLabel 9100 2950 0    50   Input ~ 0
 xtal2
 Text GLabel 10900 4850 1    50   Input ~ 0
 hwb
-Text GLabel 10300 4750 2    50   Input ~ 0
+Text GLabel 10300 4650 2    50   Input ~ 0
 hwb
 $Comp
 L Switch:SW_Push SW5
 U 1 1 609FC969
-P 2050 4400
-F 0 "SW5" H 2050 4685 50  0000 C CNN
-F 1 "0" H 2050 4594 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 2050 4600 50  0001 C CNN
-F 3 "~" H 2050 4600 50  0001 C CNN
-	1    2050 4400
+P 2900 4250
+F 0 "SW5" H 2900 4535 50  0000 C CNN
+F 1 "0" H 2900 4444 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 2900 4450 50  0001 C CNN
+F 3 "~" H 2900 4450 50  0001 C CNN
+	1    2900 4250
 	1    0    0    -1  
 $EndComp
-Text GLabel 2250 4400 1    50   Input ~ 0
-col0
 $Comp
 L Simulation_SPICE:DIODE D4
 U 1 1 609FC971
-P 1550 4700
-F 0 "D4" V 1500 4500 50  0000 L CNN
-F 1 "DIODE" V 1600 4400 50  0000 L CNN
-F 2 "lib3:D_SOD123_axial" H 1550 4700 50  0001 C CNN
-F 3 "~" H 1550 4700 50  0001 C CNN
-F 4 "Y" H 1550 4700 50  0001 L CNN "Spice_Netlist_Enabled"
-F 5 "V" H 1550 4700 50  0001 L CNN "Spice_Primitive"
-	1    1550 4700
+P 2700 4400
+F 0 "D4" V 2650 4200 50  0000 L CNN
+F 1 "DIODE" V 2750 4100 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 2700 4400 50  0001 C CNN
+F 3 "~" H 2700 4400 50  0001 C CNN
+F 4 "Y" H 2700 4400 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 2700 4400 50  0001 L CNN "Spice_Primitive"
+	1    2700 4400
 	0    1    1    0   
 $EndComp
-Text GLabel 1550 4850 0    50   Input ~ 0
-row4
-Text GLabel 1850 4400 0    50   Input ~ 0
-sw5
-Text GLabel 1550 4550 1    50   Input ~ 0
-sw5
-Text GLabel 1850 3750 0    50   Input ~ 0
-sw4
-Text GLabel 1550 3900 1    50   Input ~ 0
-sw4
-Text GLabel 2250 3750 1    50   Input ~ 0
-col0
-Text GLabel 1550 3250 1    50   Input ~ 0
-sw3
-Text GLabel 1850 3100 0    50   Input ~ 0
-sw3
-$Comp
-L Switch:SW_Push SW3
-U 1 1 609FC8E9
-P 2050 3100
-F 0 "SW3" H 2050 3385 50  0000 C CNN
-F 1 "4" H 2050 3294 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 2050 3300 50  0001 C CNN
-F 3 "~" H 2050 3300 50  0001 C CNN
-	1    2050 3100
-	1    0    0    -1  
-$EndComp
-Text GLabel 2250 3100 1    50   Input ~ 0
-col0
-Text GLabel 1550 2550 1    50   Input ~ 0
-sw2
-Text GLabel 2250 2400 1    50   Input ~ 0
-col0
-Text GLabel 1850 2400 0    50   Input ~ 0
-sw2
-Text GLabel 1700 1750 1    50   Input ~ 0
-S2
-Text GLabel 2200 1350 3    50   Input ~ 0
-S2
-Text GLabel 2200 1150 2    50   Input ~ 0
-col0
-Text GLabel 3400 2400 1    50   Input ~ 0
-col1
-Text GLabel 3400 3100 1    50   Input ~ 0
-col1
-Text GLabel 3400 3750 1    50   Input ~ 0
-col1
-Text GLabel 2700 4200 0    50   Input ~ 0
-row3
-Text GLabel 2700 3550 0    50   Input ~ 0
-row2
-Text GLabel 2700 2850 0    50   Input ~ 0
-row1
-Text GLabel 2700 2100 0    50   Input ~ 0
-row0
+Text GLabel 2700 4550 0    50   Input ~ 0
+ROW4
 $Comp
 L Switch:SW_Push SW15
 U 1 1 609FC8A0
-P 5450 1450
-F 0 "SW15" H 5450 1735 50  0000 C CNN
-F 1 "-" H 5450 1644 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 5450 1650 50  0001 C CNN
-F 3 "~" H 5450 1650 50  0001 C CNN
-	1    5450 1450
+P 5150 1450
+F 0 "SW15" H 5150 1735 50  0000 C CNN
+F 1 "-" H 5150 1644 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 5150 1650 50  0001 C CNN
+F 3 "~" H 5150 1650 50  0001 C CNN
+	1    5150 1450
 	1    0    0    -1  
 $EndComp
-Text GLabel 4500 2350 1    50   Input ~ 0
+$Comp
+L Simulation_SPICE:DIODE D17
+U 1 1 60B37CC5
+P 4950 1600
+F 0 "D17" V 4900 1400 50  0000 L CNN
+F 1 "DIODE" V 5000 1300 50  0000 L CNN
+F 2 "lib3:D_SOD123_axial" H 4950 1600 50  0001 C CNN
+F 3 "~" H 4950 1600 50  0001 C CNN
+F 4 "Y" H 4950 1600 50  0001 L CNN "Spice_Netlist_Enabled"
+F 5 "V" H 4950 1600 50  0001 L CNN "Spice_Primitive"
+	1    4950 1600
+	0    1    1    0   
+$EndComp
+Text GLabel 2200 1250 0    50   Input ~ 0
+en2
+Text GLabel 2200 1450 0    50   Input ~ 0
+en1
+$Comp
+L Device:Rotary_Encoder_Switch SW1
+U 1 1 608FE6C2
+P 2500 1350
+F 0 "SW1" H 2500 1717 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 2500 1626 50  0000 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 2350 1510 50  0001 C CNN
+F 3 "~" H 2500 1610 50  0001 C CNN
+	1    2500 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0117
+U 1 1 60AD5CB0
+P 1700 1500
+F 0 "#PWR0117" H 1700 1250 50  0001 C CNN
+F 1 "GND" H 1705 1327 50  0000 C CNN
+F 2 "" H 1700 1500 50  0001 C CNN
+F 3 "" H 1700 1500 50  0001 C CNN
+	1    1700 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1700 1350 1700 1500
+Wire Wire Line
+	2200 1350 1700 1350
+Wire Wire Line
+	2800 1250 3100 1250
+Text GLabel 5350 1450 1    50   Input ~ 0
+col0
+Text GLabel 4600 1450 1    50   Input ~ 0
+col1
+Text GLabel 3850 1450 1    50   Input ~ 0
 col2
-Text GLabel 4500 3050 1    50   Input ~ 0
-col2
-Text GLabel 4500 3700 1    50   Input ~ 0
-col2
-Text GLabel 4500 4350 1    50   Input ~ 0
-col2
-Text GLabel 5650 2250 1    50   Input ~ 0
+Text GLabel 3100 1250 1    50   Input ~ 0
 col3
-Text GLabel 5550 4350 1    50   Input ~ 0
-col3
-Text GLabel 3000 3750 0    50   Input ~ 0
-sw9
-Text GLabel 3000 3100 0    50   Input ~ 0
-sw8
-Text GLabel 3000 2400 0    50   Input ~ 0
-sw7
-Text GLabel 3000 1650 0    50   Input ~ 0
-sw6
-Text GLabel 4100 1550 0    50   Input ~ 0
-sw10
-Text GLabel 4100 2350 0    50   Input ~ 0
-sw11
-Text GLabel 4100 3050 0    50   Input ~ 0
-sw12
-Text GLabel 4100 3700 0    50   Input ~ 0
-sw13
-Text GLabel 4100 4350 0    50   Input ~ 0
-sw14
-Text GLabel 5150 4350 0    50   Input ~ 0
-sw17
-Text GLabel 5250 2250 0    50   Input ~ 0
-sw16
-Text GLabel 5250 1450 0    50   Input ~ 0
-sw15
-Text GLabel 2700 3900 1    50   Input ~ 0
-sw9
-Text GLabel 2700 3250 1    50   Input ~ 0
-sw8
-Text GLabel 2700 2550 1    50   Input ~ 0
-sw7
-Text GLabel 2700 1800 1    50   Input ~ 0
-sw6
-Text GLabel 3750 2050 0    50   Input ~ 0
-row0
-Text GLabel 3750 1750 1    50   Input ~ 0
-sw10
-Text GLabel 3750 2850 0    50   Input ~ 0
-row1
-Text GLabel 3750 2550 1    50   Input ~ 0
-sw11
-Text GLabel 3750 3250 1    50   Input ~ 0
-sw12
-Text GLabel 3750 3550 0    50   Input ~ 0
-row2
-Text GLabel 3750 3900 1    50   Input ~ 0
-sw13
-Text GLabel 3750 4200 0    50   Input ~ 0
-row3
-Text GLabel 3750 4550 1    50   Input ~ 0
-sw14
-Text GLabel 3750 4850 0    50   Input ~ 0
-row4
-Text GLabel 4800 4850 0    50   Input ~ 0
-row4
-Text GLabel 4800 4550 1    50   Input ~ 0
-sw17
-Text GLabel 4900 2450 1    50   Input ~ 0
-sw16
-Text GLabel 4900 2750 0    50   Input ~ 0
-row1
-Text GLabel 4900 1650 1    50   Input ~ 0
-sw15
-Text GLabel 4900 1950 0    50   Input ~ 0
-row0
+$Comp
+L Switch:SW_Push SW3
+U 1 1 609FC8E9
+P 2900 2850
+F 0 "SW3" H 2900 3135 50  0000 C CNN
+F 1 "4" H 2900 3044 50  0000 C CNN
+F 2 "kailh MX:Kailh_socket_MX" H 2900 3050 50  0001 C CNN
+F 3 "~" H 2900 3050 50  0001 C CNN
+	1    2900 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4600 1450 4600 2150
+Connection ~ 4600 2150
+Wire Wire Line
+	4600 2150 4600 2850
+Connection ~ 4600 2850
+Wire Wire Line
+	4600 2850 4600 3550
+Connection ~ 4600 3550
+Wire Wire Line
+	4600 3550 4600 4250
+Wire Wire Line
+	5350 1450 5350 2150
+Wire Wire Line
+	3850 1450 3850 2150
+Connection ~ 3850 2150
+Wire Wire Line
+	3850 2150 3850 2850
+Connection ~ 3850 2850
+Wire Wire Line
+	3850 2850 3850 3550
+Wire Wire Line
+	3100 1250 3100 2150
+Connection ~ 3100 2150
+Wire Wire Line
+	3100 2150 3100 2850
+Connection ~ 3100 2850
+Wire Wire Line
+	3100 2850 3100 3550
+Connection ~ 3100 3550
+Wire Wire Line
+	3100 3550 3100 4250
+Wire Wire Line
+	4950 1750 4200 1750
+Connection ~ 3450 1750
+Wire Wire Line
+	3450 1750 2800 1750
+Connection ~ 4200 1750
+Wire Wire Line
+	4200 1750 3450 1750
+Wire Wire Line
+	2700 2450 3450 2450
+Connection ~ 3450 2450
+Wire Wire Line
+	3450 2450 4200 2450
+Wire Wire Line
+	2700 3150 3450 3150
+Connection ~ 3450 3150
+Wire Wire Line
+	3450 3150 4200 3150
+Wire Wire Line
+	2700 3850 3450 3850
+Connection ~ 3450 3850
+Wire Wire Line
+	3450 3850 4200 3850
+Wire Wire Line
+	2700 4550 4200 4550
+Wire Wire Line
+	4200 4550 4950 4550
+Wire Wire Line
+	4950 4550 4950 3850
+Connection ~ 4200 4550
+Connection ~ 4200 2450
+Connection ~ 5350 2150
+Wire Wire Line
+	5350 2150 5350 3550
+Wire Wire Line
+	4200 2450 4950 2450
 $EndSCHEMATC
