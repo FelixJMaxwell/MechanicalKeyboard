@@ -414,8 +414,6 @@ Wire Wire Line
 	1500 6500 1600 6500
 Connection ~ 1600 6500
 Wire Wire Line
-	1600 6500 1600 6600
-Wire Wire Line
 	1500 6400 1700 6400
 Wire Wire Line
 	1700 6400 1700 5500
@@ -1006,19 +1004,19 @@ Text GLabel 10300 5350 2    50   Input ~ 0
 col2
 Text GLabel 10300 5450 2    50   Input ~ 0
 col3
-Text GLabel 10300 3550 2    50   Input ~ 0
+Text GLabel 10300 2950 2    50   Input ~ 0
 ROW0
-Text GLabel 10300 3450 2    50   Input ~ 0
+Text GLabel 10300 3050 2    50   Input ~ 0
 ROW1
 Text GLabel 10300 3150 2    50   Input ~ 0
 ROW2
-Text GLabel 10300 3050 2    50   Input ~ 0
+Text GLabel 10300 3450 2    50   Input ~ 0
 ROW3
-Text GLabel 10300 2950 2    50   Input ~ 0
+Text GLabel 10300 3550 2    50   Input ~ 0
 ROW4
-Text GLabel 10300 2550 2    50   Input ~ 0
+Text GLabel 10300 4250 2    50   Input ~ 0
 scl
-Text GLabel 10300 2650 2    50   Input ~ 0
+Text GLabel 10300 4050 2    50   Input ~ 0
 sda
 Text GLabel 10300 4950 2    50   Input ~ 0
 en1
@@ -1270,4 +1268,76 @@ Wire Wire Line
 	5350 2150 5350 3550
 Wire Wire Line
 	4200 2450 4950 2450
+$Comp
+L Device:Ferrite_Bead FB1
+U 1 1 609AC08F
+P 1050 7200
+F 0 "FB1" V 776 7200 50  0000 C CNN
+F 1 "60@100Mhz" V 867 7200 50  0000 C CNN
+F 2 "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 980 7200 50  0001 C CNN
+F 3 "~" H 1050 7200 50  0001 C CNN
+	1    1050 7200
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0120
+U 1 1 609B2E37
+P 1250 7200
+F 0 "#PWR0120" H 1250 6950 50  0001 C CNN
+F 1 "GND" H 1255 7027 50  0000 C CNN
+F 2 "" H 1250 7200 50  0001 C CNN
+F 3 "" H 1250 7200 50  0001 C CNN
+	1    1250 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR0121
+U 1 1 609B4E2B
+P 850 7200
+F 0 "#PWR0121" H 850 6950 50  0001 C CNN
+F 1 "Earth" H 850 7050 50  0001 C CNN
+F 2 "" H 850 7200 50  0001 C CNN
+F 3 "~" H 850 7200 50  0001 C CNN
+	1    850  7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR0122
+U 1 1 609B6094
+P 1600 6600
+F 0 "#PWR0122" H 1600 6350 50  0001 C CNN
+F 1 "Earth" H 1600 6450 50  0001 C CNN
+F 2 "" H 1600 6600 50  0001 C CNN
+F 3 "~" H 1600 6600 50  0001 C CNN
+	1    1600 6600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 7200 1250 7200
+Wire Wire Line
+	900  7200 850  7200
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 609DC0B5
+P 1250 7200
+F 0 "#FLG0101" H 1250 7275 50  0001 C CNN
+F 1 "PWR_FLAG" V 1250 7328 50  0000 L CNN
+F 2 "" H 1250 7200 50  0001 C CNN
+F 3 "~" H 1250 7200 50  0001 C CNN
+	1    1250 7200
+	0    1    1    0   
+$EndComp
+Connection ~ 1250 7200
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 609DCE83
+P 850 7200
+F 0 "#FLG0102" H 850 7275 50  0001 C CNN
+F 1 "PWR_FLAG" V 850 7327 50  0000 L CNN
+F 2 "" H 850 7200 50  0001 C CNN
+F 3 "~" H 850 7200 50  0001 C CNN
+	1    850  7200
+	0    -1   -1   0   
+$EndComp
+Connection ~ 850  7200
 $EndSCHEMATC
