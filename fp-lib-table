@@ -5,4 +5,5 @@
   (lib (name oled)(type KiCad)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/oled/128x32")(options "")(descr ""))
   (lib (name oledv2)(type KiCad)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/oled/128x32v2")(options "")(descr ""))
   (lib (name switch)(type KiCad)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/kbd-master")(options "")(descr ""))
+  (lib (name kailh_switches)(type KiCad)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/keyswitch-kicad-library-main/modules/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
 )

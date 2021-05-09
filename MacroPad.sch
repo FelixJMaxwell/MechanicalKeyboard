@@ -603,7 +603,7 @@ U 1 1 609FC8D6
 P 4400 2150
 F 0 "SW11" H 4400 2435 50  0000 C CNN
 F 1 "9" H 4400 2344 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 4400 2350 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 4400 2350 50  0001 C CNN
 F 3 "~" H 4400 2350 50  0001 C CNN
 	1    4400 2150
 	1    0    0    -1  
@@ -640,7 +640,7 @@ U 1 1 609FC8FB
 P 3650 2850
 F 0 "SW8" H 3650 3135 50  0000 C CNN
 F 1 "5" H 3650 3044 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 3650 3050 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 3650 3050 50  0001 C CNN
 F 3 "~" H 3650 3050 50  0001 C CNN
 	1    3650 2850
 	1    0    0    -1  
@@ -664,7 +664,7 @@ U 1 1 609FC90D
 P 4400 2850
 F 0 "SW12" H 4400 3135 50  0000 C CNN
 F 1 "6" H 4400 3044 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 4400 3050 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 4400 3050 50  0001 C CNN
 F 3 "~" H 4400 3050 50  0001 C CNN
 	1    4400 2850
 	1    0    0    -1  
@@ -688,7 +688,7 @@ U 1 1 609FC91F
 P 2900 3550
 F 0 "SW4" H 2900 3835 50  0000 C CNN
 F 1 "1" H 2900 3744 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 2900 3750 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 2900 3750 50  0001 C CNN
 F 3 "~" H 2900 3750 50  0001 C CNN
 	1    2900 3550
 	1    0    0    -1  
@@ -712,7 +712,7 @@ U 1 1 609FC945
 P 3650 3550
 F 0 "SW9" H 3650 3835 50  0000 C CNN
 F 1 "2" H 3650 3744 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 3650 3750 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 3650 3750 50  0001 C CNN
 F 3 "~" H 3650 3750 50  0001 C CNN
 	1    3650 3550
 	1    0    0    -1  
@@ -736,7 +736,7 @@ U 1 1 609FC957
 P 4400 3550
 F 0 "SW13" H 4400 3835 50  0000 C CNN
 F 1 "3" H 4400 3744 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 4400 3750 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 4400 3750 50  0001 C CNN
 F 3 "~" H 4400 3750 50  0001 C CNN
 	1    4400 3550
 	1    0    0    -1  
@@ -760,7 +760,7 @@ U 1 1 609FC97B
 P 4400 4250
 F 0 "SW14" H 4400 4535 50  0000 C CNN
 F 1 "." H 4400 4444 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 4400 4450 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 4400 4450 50  0001 C CNN
 F 3 "~" H 4400 4450 50  0001 C CNN
 	1    4400 4250
 	1    0    0    -1  
@@ -784,7 +784,7 @@ U 1 1 609FC991
 P 5150 2150
 F 0 "SW16" H 5150 2435 50  0000 C CNN
 F 1 "+" H 5150 2344 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 5150 2350 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_2.00u_Rotated" H 5150 2350 50  0001 C CNN
 F 3 "~" H 5150 2350 50  0001 C CNN
 	1    5150 2150
 	1    0    0    -1  
@@ -808,7 +808,7 @@ U 1 1 609FC9A0
 P 5150 3550
 F 0 "SW17" H 5150 3835 50  0000 C CNN
 F 1 "Enter" H 5150 3744 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 5150 3750 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_2.00u_Rotated" H 5150 3750 50  0001 C CNN
 F 3 "~" H 5150 3750 50  0001 C CNN
 	1    5150 3550
 	1    0    0    -1  
@@ -900,7 +900,7 @@ U 1 1 609FC8C3
 P 3650 2150
 F 0 "SW7" H 3650 2435 50  0000 C CNN
 F 1 "8" H 3650 2344 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 3650 2350 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 3650 2350 50  0001 C CNN
 F 3 "~" H 3650 2350 50  0001 C CNN
 	1    3650 2150
 	1    0    0    -1  
@@ -911,7 +911,7 @@ U 1 1 609FC88D
 P 4400 1450
 F 0 "SW10" H 4400 1735 50  0000 C CNN
 F 1 "*" H 4400 1644 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 4400 1650 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 4400 1650 50  0001 C CNN
 F 3 "~" H 4400 1650 50  0001 C CNN
 	1    4400 1450
 	1    0    0    -1  
@@ -922,7 +922,7 @@ U 1 1 609FC87A
 P 3650 1450
 F 0 "SW6" H 3650 1735 50  0000 C CNN
 F 1 "/" H 3650 1644 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 3650 1650 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 3650 1650 50  0001 C CNN
 F 3 "~" H 3650 1650 50  0001 C CNN
 	1    3650 1450
 	1    0    0    -1  
@@ -953,7 +953,7 @@ U 1 1 609FC8B0
 P 2900 2150
 F 0 "SW2" H 2900 2435 50  0000 C CNN
 F 1 "7" H 2900 2344 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 2900 2350 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 2900 2350 50  0001 C CNN
 F 3 "~" H 2900 2350 50  0001 C CNN
 	1    2900 2150
 	1    0    0    -1  
@@ -1105,7 +1105,7 @@ U 1 1 609FC969
 P 2900 4250
 F 0 "SW5" H 2900 4535 50  0000 C CNN
 F 1 "0" H 2900 4444 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 2900 4450 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_2.00u" H 2900 4450 50  0001 C CNN
 F 3 "~" H 2900 4450 50  0001 C CNN
 	1    2900 4250
 	1    0    0    -1  
@@ -1131,7 +1131,7 @@ U 1 1 609FC8A0
 P 5150 1450
 F 0 "SW15" H 5150 1735 50  0000 C CNN
 F 1 "-" H 5150 1644 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 5150 1650 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 5150 1650 50  0001 C CNN
 F 3 "~" H 5150 1650 50  0001 C CNN
 	1    5150 1450
 	1    0    0    -1  
@@ -1195,7 +1195,7 @@ U 1 1 609FC8E9
 P 2900 2850
 F 0 "SW3" H 2900 3135 50  0000 C CNN
 F 1 "4" H 2900 3044 50  0000 C CNN
-F 2 "kailh MX:Kailh_socket_MX" H 2900 3050 50  0001 C CNN
+F 2 "kailh_switches:SW_Hotswap_Kailh_1.00u" H 2900 3050 50  0001 C CNN
 F 3 "~" H 2900 3050 50  0001 C CNN
 	1    2900 2850
 	1    0    0    -1  
