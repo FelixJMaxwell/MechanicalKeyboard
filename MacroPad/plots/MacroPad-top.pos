@@ -1,0 +1,23 @@
+### Module positions - created on 16/05/2021 06:18:18 p. m. ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                PosX       PosY       Rot  Side
+D1        DIODE     D_SOD123_axial     160.3375  -111.9187   90.0000  top
+D2        DIODE     D_SOD123_axial     153.4160  -127.1587   90.0000  top
+D3        DIODE     D_SOD123_axial     139.1285  -142.3353   90.0000  top
+D4        DIODE     D_SOD123_axial     139.1285  -156.6227   90.0000  top
+D5        DIODE     D_SOD123_axial     153.4160   -96.8375   90.0000  top
+D6        DIODE     D_SOD123_axial     153.1937  -111.9187   90.0000  top
+D7        DIODE     D_SOD123_axial     146.2722  -127.1587   90.0000  top
+D8        DIODE     D_SOD123_axial     146.2722  -142.3353   90.0000  top
+D9        DIODE     D_SOD123_axial     146.2722   -96.8375   90.0000  top
+D10       DIODE     D_SOD123_axial     146.2722  -111.9187   90.0000  top
+D11       DIODE     D_SOD123_axial     138.9062  -127.1587   90.0000  top
+D12       DIODE     D_SOD123_axial     153.4160  -142.3353   90.0000  top
+D13       DIODE     D_SOD123_axial     146.2722  -156.6227   90.0000  top
+D14       DIODE     D_SOD123_axial     139.1285   -96.8375   90.0000  top
+D15       DIODE     D_SOD123_axial     139.1285  -111.9187   90.0000  top
+D16       DIODE     D_SOD123_axial     153.4160  -156.6102   90.0000  top
+D17       DIODE     D_SOD123_axial     160.3375   -96.8375   90.0000  top
+## End

@@ -1,0 +1,42 @@
+### Module positions - created on 16/05/2021 06:18:18 p. m. ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                                              PosX       PosY       Rot  Side
+C1        0.1u                C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -150.3680   -62.0077  315.0000  bottom
+C2        0.1u                C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -140.0810   -84.3597  135.0000  bottom
+C3        0.1u                C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -138.8482   -66.4900  135.0000  bottom
+C4        0.1u                C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -152.7810   -78.1367   45.0000  bottom
+C5        10u                 C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -133.4770   -77.5018  315.0000  bottom
+C6        22pF                C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -157.5562   -64.4651   45.0000  bottom
+C7        22pF                C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -155.2277   -62.1239   45.0000  bottom
+C8        1uF                 C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -135.8002   -68.8285  225.0000  bottom
+F1        500m                Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder  -121.0310   -63.7858   90.0000  bottom
+FB1       60@100Mhz           L_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -117.2210   -52.0700   90.0000  bottom
+R1        5.1k                R_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -132.0165   -57.3405    0.0000  bottom
+R2        5.1k                R_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -120.9040   -57.3405  180.0000  bottom
+R3        22                  R_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -130.0480   -68.8657  135.0000  bottom
+R4        22                  R_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -131.9902   -66.9980  135.0000  bottom
+R5        10k                 R_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -144.6530   -61.8807    0.0000  bottom
+R6        10k                 R_0805_2012Metric_Pad1.15x1.40mm_HandSolder     -145.2508   -85.6670   45.0000  bottom
+SW2       7                   Kailh_socket_MX                                  -62.7062   -96.0437  180.0000  bottom
+SW3       4                   Kailh_socket_MX                                  -62.7062  -115.0938  180.0000  bottom
+SW4       1                   Kailh_socket_MX                                  -62.7062  -134.1437  180.0000  bottom
+SW5       0                   Kailh_socket_MX                                  -72.2313  -153.1937  180.0000  bottom
+SW6       /                   Kailh_socket_MX                                  -81.7562   -76.9937  180.0000  bottom
+SW7       8                   Kailh_socket_MX                                  -81.7562   -96.0437  180.0000  bottom
+SW8       5                   Kailh_socket_MX                                  -81.7562  -115.0938  180.0000  bottom
+SW9       2                   Kailh_socket_MX                                  -81.7562  -134.1437  180.0000  bottom
+SW10      *                   Kailh_socket_MX                                 -100.8062   -76.9937  180.0000  bottom
+SW11      9                   Kailh_socket_MX                                 -100.8062   -96.0437  180.0000  bottom
+SW12      6                   Kailh_socket_MX                                 -100.8062  -115.0938  180.0000  bottom
+SW13      3                   Kailh_socket_MX                                 -100.8062  -134.1437  180.0000  bottom
+SW14      .                   Kailh_socket_MX                                 -100.8062  -153.1937  180.0000  bottom
+SW15      -                   Kailh_socket_MX                                 -119.8562   -76.9937  180.0000  bottom
+SW16      +                   Kailh_socket_MX                                 -119.8562  -105.5687  180.0000  bottom
+SW17      Enter               Kailh_socket_MX                                 -119.8562  -143.6687  180.0000  bottom
+SW18      SW_Push             SW_SPST_SKQG_WithStem                           -144.3990   -52.4827  270.0000  bottom
+U1        ATmega32U4-AU       TQFP-44_10x10mm_P0.8mm                          -143.4885   -74.6692  315.0000  bottom
+USB1      HRO-TYPE-C-31-M-12  HRO-TYPE-C-31-M-12-HandSoldering                -126.4602   -45.4342    0.0000  bottom
+Y1        16Mhz               Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering   -153.1458   -66.5555  135.0000  bottom
+## End

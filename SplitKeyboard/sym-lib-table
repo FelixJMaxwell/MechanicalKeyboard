@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name Mech_1)(type Legacy)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name Mech_2)(type Legacy)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/kicad_lib_tmk-master/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name Mech_3)(type Legacy)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name Mech_4)(type Legacy)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/kbd-master/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name Mech_5)(type Legacy)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/Type-C.lib")(options "")(descr ""))
+  (lib (name Mech_6)(type Legacy)(uri "C:/Users/Legion/Downloads/Nueva carpeta (2)/Teclados/Nueva carpeta/Lily58-Glow-master/Lily58-Glow-master/pcb/Lily58-rescue.lib")(options "")(descr ""))
+  (lib (name Mech_7)(type Legacy)(uri "C:/Users/Legion/Downloads/Nueva carpeta (2)/Teclados/Nueva carpeta/arduino-kicad-library-master/arduino.lib")(options "")(descr ""))
+  (lib (name Mech_8)(type Legacy)(uri "C:/Users/Legion/Downloads/Nueva carpeta (2)/Teclados/Nueva carpeta/arduino_micro_shield-master/arduino_micro_shield.lib")(options "")(descr ""))
+  (lib (name Mech_55)(type Legacy)(uri "C:/Users/Legion/Downloads/Nueva carpeta (2)/Teclados/MxLEDBitPCB-master/MxLEDBitPCB-master/altana/altana.lib")(options "")(descr ""))
+)
