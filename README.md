@@ -21,4 +21,4 @@ Footprint sin marca para cada tecla
 <br>
   
 # Split keyboard
-<img src="/SplitKeyboard/plots/Split_1.jpg" alt="drawing" width="600"/>  
+<img src="/SplitKeyboard/plots/Split_1.jpg" alt="drawing" width="1200"/>  
