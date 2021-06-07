@@ -13,6 +13,6 @@ No considero ninguna de los dos anterior mejor que el otro pues se complementan 
 # Macropad
 
 Foot print con marca para cada tecla  
-<img src="PDF/footprint_1.jpg" alt="drawing" width="600"/>  
+<img src="/MacroPad/PDF/footprint_1.jpg" alt="drawing" width="600"/>  
 Footprint sin marca para cada tecla  
-<img src="PDF/footprint_2.jpg" alt="drawing" width="600"/>  
+<img src="/MacroPad/PDF/footprint_2.jpg" alt="drawing" width="600"/>  
