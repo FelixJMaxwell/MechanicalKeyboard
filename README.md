@@ -16,3 +16,9 @@ Foot print con marca para cada tecla
 <img src="/MacroPad/PDF/footprint_1.jpg" alt="drawing" width="600"/>  
 Footprint sin marca para cada tecla  
 <img src="/MacroPad/PDF/footprint_2.jpg" alt="drawing" width="600"/>  
+
+<br>
+<br>
+  
+# Split keyboard
+<img src="/SplitKeyboard/plots/Split_1.jpg" alt="drawing" width="1200"/>  
