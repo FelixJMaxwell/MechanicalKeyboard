@@ -8,4 +8,5 @@
   (lib (name Mech_7)(type Legacy)(uri "C:/Users/Legion/Downloads/Nueva carpeta (2)/Teclados/Nueva carpeta/arduino-kicad-library-master/arduino.lib")(options "")(descr ""))
   (lib (name Mech_8)(type Legacy)(uri "C:/Users/Legion/Downloads/Nueva carpeta (2)/Teclados/Nueva carpeta/arduino_micro_shield-master/arduino_micro_shield.lib")(options "")(descr ""))
   (lib (name Mech_55)(type Legacy)(uri "C:/Users/Legion/Downloads/Nueva carpeta (2)/Teclados/MxLEDBitPCB-master/MxLEDBitPCB-master/altana/altana.lib")(options "")(descr ""))
+  (lib (name SplitKeyboard-rescue)(type Legacy)(uri ${KIPRJMOD}/SplitKeyboard-rescue.lib)(options "")(descr ""))
 )

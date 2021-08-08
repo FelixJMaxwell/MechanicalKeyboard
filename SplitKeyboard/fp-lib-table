@@ -1,7 +1,7 @@
 (fp_lib_table
-  (lib (name Mech_1)(type KiCad)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/kbd-master")(options "")(descr ""))
-  (lib (name Mech_2)(type KiCad)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/keyboard_parts.pretty-master")(options "")(descr ""))
-  (lib (name Mech_3)(type KiCad)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints/keyswitch-kicad-library-main/modules")(options "")(descr ""))
-  (lib (name Mech_4)(type KiCad)(uri "C:/Users/Legion/Documents/Github/Visual studio/MechanicalKeyboard/Kicad Footprints")(options "")(descr ""))
+  (lib (name Mech_1)(type KiCad)(uri "C:/Users/Legion/Documents/Github/MechanicalKeyboard/Kicad Footprints/kbd-master")(options "")(descr ""))
+  (lib (name Mech_2)(type KiCad)(uri "C:/Users/Legion/Documents/Github/MechanicalKeyboard/Kicad Footprints/keyboard_parts.pretty-master")(options "")(descr ""))
+  (lib (name Mech_3)(type KiCad)(uri "C:/Users/Legion/Documents/Github/MechanicalKeyboard/Kicad Footprints/keyswitch-kicad-library-main/modules")(options "")(descr ""))
+  (lib (name Mech_4)(type KiCad)(uri "C:/Users/Legion/Documents/Github/MechanicalKeyboard/Kicad Footprints")(options "")(descr ""))
   (lib (name Mech_55)(type KiCad)(uri "C:/Users/Legion/Downloads/Nueva carpeta (2)/Teclados/MxLEDBitPCB-master/MxLEDBitPCB-master/altana/footprint.pretty")(options "")(descr ""))
 )

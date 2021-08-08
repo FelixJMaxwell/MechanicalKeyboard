@@ -1,4 +1,4 @@
-5766513501440688
+5023698201058560
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -6208,363 +6208,6 @@ tag connect programming header pogo pins
 0
 14
 14
-Connector_Audio
-Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
-3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
-3.5mm audio cui horizontal jack stereo
-0
-3
-3
-Connector_Audio
-Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal
-3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
-3.5mm audio cui horizontal jack stereo
-0
-4
-4
-Connector_Audio
-Jack_3.5mm_CUI_SJ1-3533NG_Horizontal
-TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf
-TRS audio jack stereo horizontal
-0
-3
-3
-Connector_Audio
-Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles
-TRS 3.5mm, horizontal, through-hole, , circular holeshttps://www.cui.com/product/resource/sj1-353xng.pdf
-TRS audio jack stereo horizontal circular
-0
-3
-3
-Connector_Audio
-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
-TRS 3.5mm, horizontal, through-hole, with switch, https://www.cui.com/product/resource/sj1-353xng.pdf
-TRS audio jack stereo horizontal
-0
-5
-5
-Connector_Audio
-Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles
-TRS 3.5mm, horizontal, through-hole, with switch, circular holes, https://www.cui.com/product/resource/sj1-353xng.pdf
-TRS audio jack stereo horizontal circular
-0
-5
-5
-Connector_Audio
-Jack_3.5mm_Ledino_KB3SPRS_Horizontal
-https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf
-jack stereo TRS
-0
-5
-5
-Connector_Audio
-Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
-NMJ6HCD2, TRS 1/4in (http://www.neutrik.com/en/audio/plugs-and-jacks/m-series/nmj6hcd2)
-NMJ6HCD2 TRS stereo jack connector
-0
-6
-6
-Connector_Audio
-Jack_3.5mm_PJ311_Horizontal
-PJ311 6pin SMD 3.5mm stereo headphones jack.
-headphones jack plug stereo 3.5mm PJ311
-0
-6
-6
-Connector_Audio
-Jack_3.5mm_PJ320D_Horizontal
-Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)
-3.5mm jack mic microphone phones headphones 4pins audio plug
-0
-4
-4
-Connector_Audio
-Jack_3.5mm_PJ320E_Horizontal
-Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320E-177.html)
-3.5mm jack mic microphone phones headphones 4pins audio plug
-0
-5
-4
-Connector_Audio
-Jack_3.5mm_PJ31060-I_Horizontal
-PJ31060-I 6pin SMD 3.5mm headphones jack (http://www.china-bsun.com/Product48/1577.html)
-headphones jack plug stereo 3.5mm PJ31060-I PJ31060
-0
-6
-6
-Connector_Audio
-Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
-TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)
-WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
-0
-3
-3
-Connector_Audio
-Jack_3.5mm_Switronic_ST-005-G_horizontal
-3.5mm horizontal headphones jack, http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf
-Connector Audio Switronic ST-005-G
-0
-4
-3
-Connector_Audio
-MiniXLR-5_Switchcraft_TRAPC_Horizontal
-http://www.switchcraft.com/ProductSummary.aspx?Parent=620 http://www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF
-THT Mini XLR 5Pin right angle
-0
-5
-5
-Connector_USB
-USB3_A_Molex_48393-001
-USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
-USB 3.0 type A right angle
-0
-13
-10
-Connector_USB
-USB3_A_Plug_Wuerth_692112030100_Horizontal
-USB type A Plug, Horizontal, http://katalog.we-online.de/em/datasheet/692112030100.pdf
-usb A plug horizontal
-0
-11
-10
-Connector_USB
-USB_A_CNCTech_1001-011-01101_Horizontal
-http://cnctech.us/pdfs/1001-011-01101.pdf
-USB-A
-0
-6
-5
-Connector_USB
-USB_A_Molex_105057_Vertical
-https://www.molex.com/pdm_docs/sd/1050570001_sd.pdf
-USB A Vertical
-0
-7
-5
-Connector_USB
-USB_A_Stewart_SS-52100-001_Horizontal
-USB A connector https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf
-USB_A Female Connector receptacle
-0
-6
-5
-Connector_USB
-USB_A_Wuerth_61400826021_Horizontal_Stacked
-Stacked USB A connector http://katalog.we-online.de/em/datasheet/61400826021.pdf
-Wuerth stacked USB_A
-0
-12
-9
-Connector_USB
-USB_B_Amphenol_MUSB-D511_Vertical_Rugged
-A,phenol MUSB_D511, USB B female connector, straight, rugged, https://www.amphenolcanada.com/ProductSearch/drawings/AC/MUSBD511XX.pdf
-USB_B_MUSB_Straight female connector straight rugged MUSB D511
-0
-6
-5
-Connector_USB
-USB_B_OST_USB-B1HSxx_Horizontal
-USB B receptacle, Horizontal, through-hole, http://www.on-shore.com/wp-content/uploads/2015/09/usb-b1hsxx.pdf
-USB-B receptacle horizontal through-hole
-0
-6
-5
-Connector_USB
-USB_B_TE_5787834_Vertical
-http://www.mouser.com/ds/2/418/NG_CD_5787834_A4-669110.pdf
-USB_B USB B vertical female connector
-0
-6
-5
-Connector_USB
-USB_C_Plug_JAE_DX07P024AJ1
-Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, https://www.jae.com/en/searchfilter/?topics_keyword=DX07P024AJ1&mainItemSelect=1
-USB Type-C Plug Edge Mount
-0
-30
-25
-Connector_USB
-USB_C_Plug_Molex_105444
-Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.molex.com/pdm_docs/sd/1054440001_sd.pdf
-USB Type-C Plug Edge Mount
-0
-24
-23
-Connector_USB
-USB_C_Receptacle_Amphenol_12401548E4-2A
-USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
-USB C Type-C Receptacle Hybrid
-0
-28
-25
-Connector_USB
-USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles
-USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
-USB C Type-C Receptacle Hybrid
-0
-28
-25
-Connector_USB
-USB_C_Receptacle_Amphenol_12401610E4-2A
-USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A
-USB C Type-C Receptacle SMD
-0
-28
-25
-Connector_USB
-USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles
-USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A
-USB C Type-C Receptacle SMD
-0
-28
-25
-Connector_USB
-USB_C_Receptacle_GCT_USB4085
-USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf
-USB Type-C Receptacle Through-hole Right angle
-0
-20
-17
-Connector_USB
-USB_C_Receptacle_HRO_TYPE-C-31-M-12
-USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
-usb usb-c 2.0 pd
-0
-20
-17
-Connector_USB
-USB_C_Receptacle_JAE_DX07S024WJ1R350
-http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117219.pdf
-USB C Type-C Receptacle SMD
-0
-30
-25
-Connector_USB
-USB_C_Receptacle_JAE_DX07S024WJ3R400
-USB TYPE C, VERT RCPT PCB, SMT, http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117928.pdf
-USB C Type-C Receptacle SMD
-0
-28
-25
-Connector_USB
-USB_C_Receptacle_Palconn_UTC16-G
-http://www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf
-USB C Type-C Receptacle USB2.0
-0
-20
-17
-Connector_USB
-USB_Micro-AB_Molex_47590-0001
-Micro USB AB receptable, right-angle inverted (https://www.molex.com/pdm_docs/sd/475900001_sd.pdf)
-Micro AB USB SMD
-0
-14
-6
-Connector_USB
-USB_Micro-B_Amphenol_10103594-0001LF_Horizontal
-Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
-USB USB_B USB_micro USB_OTG
-0
-17
-6
-Connector_USB
-USB_Micro-B_GCT_USB3076-30-A
-GCT Micro USB https://gct.co/files/drawings/usb3076.pdf
-Micro-USB SMD Typ-B GCT
-0
-11
-6
-Connector_USB
-USB_Micro-B_Molex-105017-0001
-http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
-Micro-USB SMD Typ-B
-0
-13
-6
-Connector_USB
-USB_Micro-B_Molex-105133-0001
-Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330001_sd.pdf)
-Micro-USB SMD Typ-B Vertical
-0
-8
-6
-Connector_USB
-USB_Micro-B_Molex-105133-0031
-Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330031_sd.pdf)
-Micro-USB SMD Typ-B Vertical
-0
-8
-6
-Connector_USB
-USB_Micro-B_Molex_47346-0001
-Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)
-Micro B USB SMD
-0
-11
-6
-Connector_USB
-USB_Micro-B_Wuerth_614105150721_Vertical
-USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf
-usb micro receptacle vertical
-0
-7
-6
-Connector_USB
-USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles
-USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf
-usb micro receptacle vertical
-0
-7
-6
-Connector_USB
-USB_Micro-B_Wuerth_629105150521
-USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
-usb micro receptacle
-0
-9
-6
-Connector_USB
-USB_Micro-B_Wuerth_629105150521_CircularHoles
-USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
-usb micro receptacle
-0
-9
-6
-Connector_USB
-USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical
-http://www.adam-tech.com/upload/MUSB-B5-S-VT-TSMT-1.pdf
-USB Mini-B
-0
-7
-6
-Connector_USB
-USB_Mini-B_Lumberg_2486_01_Horizontal
-USB Mini-B 5-pin SMD connector, http://downloads.lumberg.com/datenblaetter/en/2486_01.pdf
-USB USB_B USB_Mini connector
-0
-9
-6
-Connector_USB
-USB_Mini-B_Tensility_54-00023_Vertical
-http://www.tensility.com/pdffiles/54-00023.pdf
-usb mini receptacle vertical
-0
-7
-6
-Connector_USB
-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
-http://www.tensility.com/pdffiles/54-00023.pdf
-usb mini receptacle vertical
-0
-7
-6
-Connector_USB
-USB_Mini-B_Wuerth_65100516121_Horizontal
-Mini USB 2.0 Type B SMT Horizontal 5 Contacts (https://katalog.we-online.de/em/datasheet/65100516121.pdf)
-Mini USB 2.0 Type B
-0
-9
-6
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
@@ -7818,1301 +7461,6 @@ THT ceramic resonator filter DSS6
 0
 3
 3
-Diode_SMD
-D_0201_0603Metric
-Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
-diode
-0
-4
-2
-Diode_SMD
-D_0402_1005Metric
-Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_0603_1608Metric
-Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_0603_1608Metric_Castellated
-Diode SMD 0603 (1608 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_0805_2012Metric
-Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_0805_2012Metric_Castellated
-Diode SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_0805_2012Metric_Pad1.15x1.40mm_HandSolder
-Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_01005_0402Metric
-Diode SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
-diode
-0
-4
-2
-Diode_SMD
-D_1206_3216Metric
-Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_1206_3216Metric_Castellated
-Diode SMD 1206 (3216 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_1206_3216Metric_Pad1.42x1.75mm_HandSolder
-Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_1210_3225Metric
-Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_1210_3225Metric_Castellated
-Diode SMD 1210 (3225 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_1210_3225Metric_Pad1.42x2.65mm_HandSolder
-Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_1806_4516Metric
-Diode SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_1806_4516Metric_Castellated
-Diode SMD 1806 (4516 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_1806_4516Metric_Pad1.57x1.80mm_HandSolder
-Diode SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_1812_4532Metric
-Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_1812_4532Metric_Castellated
-Diode SMD 1812 (4532 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_1812_4532Metric_Pad1.30x3.40mm_HandSolder
-Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_2010_5025Metric
-Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_2010_5025Metric_Castellated
-Diode SMD 2010 (5025 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_2010_5025Metric_Pad1.52x2.65mm_HandSolder
-Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_2114_3652Metric
-Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_2114_3652Metric_Castellated
-Diode SMD 2114 (3652 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_2114_3652Metric_Pad1.85x3.75mm_HandSolder
-Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_2512_6332Metric
-Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_2512_6332Metric_Castellated
-Diode SMD 2512 (6332 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_2512_6332Metric_Pad1.52x3.35mm_HandSolder
-Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_2816_7142Metric
-Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_2816_7142Metric_Castellated
-Diode SMD 2816 (7142 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_2816_7142Metric_Pad3.20x4.45mm_HandSolder
-Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_3220_8050Metric
-Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-Diode_SMD
-D_3220_8050Metric_Castellated
-Diode SMD 3220 (8050 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
-diode castellated
-0
-2
-2
-Diode_SMD
-D_3220_8050Metric_Pad2.65x5.15mm_HandSolder
-Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-Diode_SMD
-D_MELF
-Diode, MELF,,
-Diode MELF 
-0
-2
-2
-Diode_SMD
-D_MELF-RM10_Universal_Handsoldering
-Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,
-Diode Universal MELF RM10 Handsoldering SMD Thruhole 
-0
-2
-2
-Diode_SMD
-D_MELF_Handsoldering
-Diode MELF Handsoldering
-Diode MELF Handsoldering
-0
-2
-2
-Diode_SMD
-D_MicroMELF
-Diode, MicroMELF, Reflow Soldering, http://www.vishay.com/docs/85597/bzm55.pdf
-MicroMELF Diode
-0
-2
-2
-Diode_SMD
-D_MicroMELF_Handsoldering
-Diode, MicroMELF, Hand Soldering, http://www.vishay.com/docs/85597/bzm55.pdf
-MicroMELF Diode
-0
-2
-2
-Diode_SMD
-D_MiniMELF
-Diode Mini-MELF
-Diode Mini-MELF
-0
-2
-2
-Diode_SMD
-D_MiniMELF_Handsoldering
-Diode Mini-MELF Handsoldering
-Diode Mini-MELF Handsoldering
-0
-2
-2
-Diode_SMD
-D_PowerDI-5
-PowerDI,Diode,Vishay,https://www.diodes.com/assets/Package-Files/PowerDI5.pdf
-PowerDI diode vishay
-0
-3
-2
-Diode_SMD
-D_PowerDI-123
-http://www.diodes.com/_files/datasheets/ds30497.pdf
-PowerDI diode vishay
-0
-2
-2
-Diode_SMD
-D_Powermite2_AK
-Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341)
-PowerMite2
-0
-2
-2
-Diode_SMD
-D_Powermite2_KA
-Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341)
-PowerMite2
-0
-2
-2
-Diode_SMD
-D_Powermite3
-Microsemi Powermite 3 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5340)
-PowerMite3
-0
-3
-3
-Diode_SMD
-D_Powermite_AK
-Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)
-Powermite
-0
-2
-2
-Diode_SMD
-D_Powermite_KA
-Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)
-Powermite
-0
-2
-2
-Diode_SMD
-D_QFN_3.3x3.3mm_P0.65mm
-QFN, diode, 3.3x3.3x1mm (https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf)
-diode qfn 3.3
-0
-3
-2
-Diode_SMD
-D_SC-80
-JEITA SC-80
-SC-80
-0
-2
-2
-Diode_SMD
-D_SC-80_HandSoldering
-JEITA SC-80
-SC-80
-0
-2
-2
-Diode_SMD
-D_SMA
-Diode SMA (DO-214AC)
-Diode SMA (DO-214AC)
-0
-2
-2
-Diode_SMD
-D_SMA-SMB_Universal_Handsoldering
-Diode, Universal, SMA (DO-214AC) or SMB (DO-214AA), Handsoldering,
-Diode Universal SMA (DO-214AC) SMB (DO-214AA) Handsoldering 
-0
-2
-2
-Diode_SMD
-D_SMA_Handsoldering
-Diode SMA (DO-214AC) Handsoldering
-Diode SMA (DO-214AC) Handsoldering
-0
-2
-2
-Diode_SMD
-D_SMB
-Diode SMB (DO-214AA)
-Diode SMB (DO-214AA)
-0
-2
-2
-Diode_SMD
-D_SMB-SMC_Universal_Handsoldering
-Diode, Universal, SMB(DO-214AA) or SMC (DO-214AB), Handsoldering,
-Diode Universal SMB(DO-214AA) SMC (DO-214AB) Handsoldering 
-0
-2
-2
-Diode_SMD
-D_SMB_Handsoldering
-Diode SMB (DO-214AA) Handsoldering
-Diode SMB (DO-214AA) Handsoldering
-0
-2
-2
-Diode_SMD
-D_SMB_Modified
-Diode SMB (DO-214AA) Modified (http://www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)
-Diode SMB (DO-214AA)
-0
-3
-3
-Diode_SMD
-D_SMC
-Diode SMC (DO-214AB)
-Diode SMC (DO-214AB)
-0
-2
-2
-Diode_SMD
-D_SMC-RM10_Universal_Handsoldering
-Diode, Universal, SMC (DO-214AB), RM10, Handsoldering, SMD, Thruhole
-Diode Universal SMC (DO-214AB) RM10 Handsoldering SMD Thruhole
-0
-2
-2
-Diode_SMD
-D_SMC_Handsoldering
-Diode SMC (DO-214AB) Handsoldering
-Diode SMC (DO-214AB) Handsoldering
-0
-2
-2
-Diode_SMD
-D_SMF
-Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf
-Diode SMF (DO-214AB)
-0
-2
-2
-Diode_SMD
-D_SOD-110
-SOD-110
-SOD-110
-0
-2
-2
-Diode_SMD
-D_SOD-123
-SOD-123
-SOD-123
-0
-2
-2
-Diode_SMD
-D_SOD-123F
-D_SOD-123F
-D_SOD-123F
-0
-2
-2
-Diode_SMD
-D_SOD-128
-D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf
-D_SOD-128
-0
-2
-2
-Diode_SMD
-D_SOD-323
-SOD-323
-SOD-323
-0
-2
-2
-Diode_SMD
-D_SOD-323F
-SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
-SOD-323F
-0
-2
-2
-Diode_SMD
-D_SOD-323_HandSoldering
-SOD-323
-SOD-323
-0
-2
-2
-Diode_SMD
-D_SOD-523
-http://www.diodes.com/datasheets/ap02001.pdf p.144
-Diode SOD523
-0
-2
-2
-Diode_SMD
-D_SOT-23_ANK
-SOT-23, Single Diode
-SOT-23
-0
-3
-2
-Diode_SMD
-D_SOT-23_NKA
-SOT-23, Single Diode
-SOT-23
-0
-3
-2
-Diode_SMD
-D_TUMD2
-ROHM - TUMD2
-TUMD2
-0
-2
-2
-Diode_SMD
-Diode_Bridge_Bourns_CD-DF4xxS
-8.1x10.5mm, 4A, single phase bridge rectifier, https://www.bourns.com/docs/Product-Datasheets/CD-DF4xxSL.pdf
-Surface Mount Bridge Rectifier Diode
-0
-4
-4
-Diode_SMD
-Diode_Bridge_Diotec_ABS
-SMD diode bridge ABS (Diotec), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf
-ABS MBLS
-0
-4
-4
-Diode_SMD
-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm
-SMD package Diotec Diotec MicroDil, body 3.0x3.0x1.8mm (e.g. diode bridge), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/mys40.pdf
-Diotec MicroDil diode bridge
-0
-4
-4
-Diode_SMD
-Diode_Bridge_Diotec_SO-DIL-Slim
-SMD diode bridge Diotec SO-DIL Slim, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf
-DFS SO-DIL Slim
-0
-4
-4
-Diode_SMD
-Diode_Bridge_Vishay_DFS
-SMD diode bridge DFS, see http://www.vishay.com/docs/88854/padlayouts.pdf
-DFS
-0
-4
-4
-Diode_SMD
-Diode_Bridge_Vishay_DFSFlat
-SMD diode bridge Low Profile DFS "Flat", see http://www.vishay.com/docs/88874/dfl15005.pdf
-DFS
-0
-4
-4
-Diode_SMD
-Diode_Bridge_Vishay_MBLS
-SMD diode bridge MBLS, see http://www.vishay.com/docs/89959/mbl104s.pdf http://www.vishay.com/docs/88854/padlayouts.pdf
-DFS
-0
-4
-4
-Diode_SMD
-Littelfuse_PolyZen-LS
-http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf
-Diode Polymer Protected Zener Diode Littelfuse LS
-0
-3
-3
-Diode_THT
-D_5KPW_P7.62mm_Vertical_AnodeUp
-Diode, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KPW series Axial Vertical pin pitch 7.62mm  length 9mm diameter 8mm
-0
-2
-2
-Diode_THT
-D_5KPW_P7.62mm_Vertical_KathodeUp
-Diode, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KPW series Axial Vertical pin pitch 7.62mm  length 9mm diameter 8mm
-0
-2
-2
-Diode_THT
-D_5KPW_P12.70mm_Horizontal
-Diode, 5KPW series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KPW series Axial Horizontal pin pitch 12.7mm  length 9mm diameter 8mm
-0
-2
-2
-Diode_THT
-D_5KP_P7.62mm_Vertical_AnodeUp
-Diode, 5KP series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KP series Axial Vertical pin pitch 7.62mm  length 7.62mm diameter 9.53mm
-0
-2
-2
-Diode_THT
-D_5KP_P7.62mm_Vertical_KathodeUp
-Diode, 5KP series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KP series Axial Vertical pin pitch 7.62mm  length 7.62mm diameter 9.53mm
-0
-2
-2
-Diode_THT
-D_5KP_P10.16mm_Horizontal
-Diode, 5KP series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KP series Axial Horizontal pin pitch 10.16mm  length 7.62mm diameter 9.53mm
-0
-2
-2
-Diode_THT
-D_5KP_P12.70mm_Horizontal
-Diode, 5KP series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KP series Axial Horizontal pin pitch 12.7mm  length 7.62mm diameter 9.53mm
-0
-2
-2
-Diode_THT
-D_5W_P5.08mm_Vertical_AnodeUp
-Diode, 5W series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5W series Axial Vertical pin pitch 5.08mm  length 8.9mm diameter 3.7mm
-0
-2
-2
-Diode_THT
-D_5W_P5.08mm_Vertical_KathodeUp
-Diode, 5W series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5W series Axial Vertical pin pitch 5.08mm  length 8.9mm diameter 3.7mm
-0
-2
-2
-Diode_THT
-D_5W_P10.16mm_Horizontal
-Diode, 5W series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5W series Axial Horizontal pin pitch 10.16mm  length 8.9mm diameter 3.7mm
-0
-2
-2
-Diode_THT
-D_5W_P12.70mm_Horizontal
-Diode, 5W series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5W series Axial Horizontal pin pitch 12.7mm  length 8.9mm diameter 3.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P2.54mm_Vertical_AnodeUp
-Diode, A-405 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P2.54mm_Vertical_KathodeUp
-Diode, A-405 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P5.08mm_Vertical_AnodeUp
-Diode, A-405 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P5.08mm_Vertical_KathodeUp
-Diode, A-405 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P7.62mm_Horizontal
-Diode, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P10.16mm_Horizontal
-Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P12.70mm_Horizontal
-Diode, A-405 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-15_P2.54mm_Vertical_AnodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 2.54mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P2.54mm_Vertical_KathodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 2.54mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P3.81mm_Vertical_AnodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 3.81mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P3.81mm_Vertical_KathodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 3.81mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P5.08mm_Vertical_AnodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 5.08mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P5.08mm_Vertical_KathodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 5.08mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P10.16mm_Horizontal
-Diode, DO-15 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Horizontal pin pitch 10.16mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P12.70mm_Horizontal
-Diode, DO-15 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Horizontal pin pitch 12.7mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P15.24mm_Horizontal
-Diode, DO-15 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Horizontal pin pitch 15.24mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-27_P5.08mm_Vertical_AnodeUp
-Diode, DO-27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
-Diode DO-27 series Axial Vertical pin pitch 5.08mm  length 9.52mm diameter 5.33mm
-0
-2
-2
-Diode_THT
-D_DO-27_P5.08mm_Vertical_KathodeUp
-Diode, DO-27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
-Diode DO-27 series Axial Vertical pin pitch 5.08mm  length 9.52mm diameter 5.33mm
-0
-2
-2
-Diode_THT
-D_DO-27_P12.70mm_Horizontal
-Diode, DO-27 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
-Diode DO-27 series Axial Horizontal pin pitch 12.7mm  length 9.52mm diameter 5.33mm
-0
-2
-2
-Diode_THT
-D_DO-27_P15.24mm_Horizontal
-Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
-Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P2.54mm_Vertical_AnodeUp
-Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Vertical pin pitch 2.54mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp
-Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Vertical pin pitch 2.54mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp
-Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Vertical pin pitch 5.08mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp
-Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Vertical pin pitch 5.08mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P7.62mm_Horizontal
-Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Horizontal pin pitch 7.62mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P10.16mm_Horizontal
-Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Horizontal pin pitch 10.16mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P12.70mm_Horizontal
-Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Horizontal pin pitch 12.7mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P3.81mm_Vertical_AnodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 3.81mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 3.81mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P7.62mm_Horizontal
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P10.16mm_Horizontal
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P12.70mm_Horizontal
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 12.7mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P2.54mm_Vertical_AnodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=5.2*2.7mm^2, , https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 3.81mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P3.81mm_Vertical_KathodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=5.2*2.7mm^2, , https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 3.81mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P7.62mm_Horizontal
-Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P10.16mm_Horizontal
-Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P12.70mm_Horizontal
-Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P3.81mm_Vertical_AnodeUp
-Diode, DO-201AD series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Vertical pin pitch 3.81mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P3.81mm_Vertical_KathodeUp
-Diode, DO-201AD series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Vertical pin pitch 3.81mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P5.08mm_Vertical_AnodeUp
-Diode, DO-201AD series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Vertical pin pitch 5.08mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P5.08mm_Vertical_KathodeUp
-Diode, DO-201AD series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Vertical pin pitch 5.08mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P12.70mm_Horizontal
-Diode, DO-201AD series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Horizontal pin pitch 12.7mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P15.24mm_Horizontal
-Diode, DO-201AD series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Horizontal pin pitch 15.24mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P3.81mm_Vertical_AnodeUp
-Diode, DO-201AE series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Vertical pin pitch 3.81mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P3.81mm_Vertical_KathodeUp
-Diode, DO-201AE series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Vertical pin pitch 3.81mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P5.08mm_Vertical_AnodeUp
-Diode, DO-201AE series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Vertical pin pitch 5.08mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P5.08mm_Vertical_KathodeUp
-Diode, DO-201AE series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Vertical pin pitch 5.08mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P12.70mm_Horizontal
-Diode, DO-201AE series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Horizontal pin pitch 12.7mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P15.24mm_Horizontal
-Diode, DO-201AE series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Horizontal pin pitch 15.24mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201_P3.81mm_Vertical_AnodeUp
-Diode, DO-201 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Vertical pin pitch 3.81mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-201_P3.81mm_Vertical_KathodeUp
-Diode, DO-201 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Vertical pin pitch 3.81mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-201_P5.08mm_Vertical_AnodeUp
-Diode, DO-201 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Vertical pin pitch 5.08mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-201_P5.08mm_Vertical_KathodeUp
-Diode, DO-201 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Vertical pin pitch 5.08mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-201_P12.70mm_Horizontal
-Diode, DO-201 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Horizontal pin pitch 12.7mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-201_P15.24mm_Horizontal
-Diode, DO-201 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Horizontal pin pitch 15.24mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_P600_R-6_P7.62mm_Vertical_AnodeUp
-Diode, P600_R-6 series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
-Diode P600_R-6 series Axial Vertical pin pitch 7.62mm  length 9.1mm diameter 9.1mm
-0
-2
-2
-Diode_THT
-D_P600_R-6_P7.62mm_Vertical_KathodeUp
-Diode, P600_R-6 series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
-Diode P600_R-6 series Axial Vertical pin pitch 7.62mm  length 9.1mm diameter 9.1mm
-0
-2
-2
-Diode_THT
-D_P600_R-6_P12.70mm_Horizontal
-Diode, P600_R-6 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
-Diode P600_R-6 series Axial Horizontal pin pitch 12.7mm  length 9.1mm diameter 9.1mm
-0
-2
-2
-Diode_THT
-D_P600_R-6_P20.00mm_Horizontal
-Diode, P600_R-6 series, Axial, Horizontal, pin pitch=20mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
-Diode P600_R-6 series Axial Horizontal pin pitch 20mm  length 9.1mm diameter 9.1mm
-0
-2
-2
-Diode_THT
-D_T-1_P2.54mm_Vertical_AnodeUp
-Diode, T-1 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
-Diode T-1 series Axial Vertical pin pitch 2.54mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-Diode_THT
-D_T-1_P2.54mm_Vertical_KathodeUp
-Diode, T-1 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
-Diode T-1 series Axial Vertical pin pitch 2.54mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-Diode_THT
-D_T-1_P5.08mm_Horizontal
-Diode, T-1 series, Axial, Horizontal, pin pitch=5.08mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
-Diode T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-Diode_THT
-D_T-1_P10.16mm_Horizontal
-Diode, T-1 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
-Diode T-1 series Axial Horizontal pin pitch 10.16mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-Diode_THT
-D_T-1_P12.70mm_Horizontal
-Diode, T-1 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
-Diode T-1 series Axial Horizontal pin pitch 12.7mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-Diode_THT
-Diode_Bridge_15.1x15.1x6.3mm_P10.9mm
-Single phase bridge rectifier case 15.1x15.1mm, pitch 10.9mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/pb1000.pdf
-Diode Bridge PB10xxS
-0
-4
-4
-Diode_THT
-Diode_Bridge_15.2x15.2x6.3mm_P10.9mm
-Single phase bridge rectifier case 15.2x15.2mm, pitch 10.9mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/kbpc600.pdf
-Diode Bridge KBPC6xx
-0
-4
-4
-Diode_THT
-Diode_Bridge_15.7x15.7x6.3mm_P10.8mm
-Single phase bridge rectifier case 15.7x15.7
-Diode Bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_16.7x16.7x6.3mm_P10.8mm
-Single phase bridge rectifier case 16.7x16.7
-Diode Bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_19.0x3.5x10.0mm_P5.0mm
-Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf
-Vishay GBU rectifier diode bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_19.0x19.0x6.8mm_P12.7mm
-Single phase bridge rectifier case 19x19mm, pitch 12.7mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/pb1000.pdf
-Diode Bridge PB10xx
-0
-4
-4
-Diode_THT
-Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm
-Single phase bridge rectifier case 28.6x28.6mm, pitch 18.0mm & 11.6mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/kbpc1500fw.pdf
-Diode Bridge KBPCxxxxWP
-0
-4
-4
-Diode_THT
-Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm
-Diotec 32x5.6x17mm rectifier package, 7.5mm/10mm pitch, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c3700.pdf
-Diotec rectifier diode bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_DIP-4_W5.08mm_P2.54mm
-4-lead dip package for diode bridges, row spacing 5.08mm, pin-spacing 2.54mm, see http://www.vishay.com/docs/88898/b2m.pdf
-DIL DIP PDIP 5.08mm 2.54
-0
-4
-4
-Diode_THT
-Diode_Bridge_DIP-4_W7.62mm_P5.08mm
-4-lead dip package for diode bridges, row spacing 7.62 mm (300 mils), see http://cdn-reichelt.de/documents/datenblatt/A400/HDBL101G_20SERIES-TSC.pdf
-DIL DIP PDIP 5.08mm 7.62mm 300mil
-0
-4
-4
-Diode_THT
-Diode_Bridge_Round_D8.9mm
-4-lead round diode bridge package, diameter 8.9mm, pin pitch 5.08mm, see http://cdn-reichelt.de/documents/datenblatt/A400/W005M-W10M_SEP.PDF
-diode bridge 8.9mm 8.85mm WOB pitch 5.08mm
-0
-4
-4
-Diode_THT
-Diode_Bridge_Round_D9.0mm
-4-lead round diode bridge package, diameter 9.0mm, pin pitch 5.0mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40r.pdf
-diode bridge 9.0mm 8.85mm WOB pitch 5.0mm
-0
-4
-4
-Diode_THT
-Diode_Bridge_Round_D9.8mm
-4-lead round diode bridge package, diameter 9.8mm, pin pitch 5.08mm, see http://www.vishay.com/docs/88769/woo5g.pdf
-diode bridge 9.8mm WOG pitch 5.08mm
-0
-4
-4
-Diode_THT
-Diode_Bridge_Vishay_GBL
-Vishay GBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88609/gbl005.pdf
-Vishay GBL rectifier diode bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_Vishay_GBU
-Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf
-Vishay GBU rectifier diode bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_Vishay_KBL
-Vishay KBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88655/kbl005.pdf
-Vishay KBL rectifier diode bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_Vishay_KBPC1
-Single phase bridge rectifier case KBPC1, see http://www.vishay.com/docs/93585/vs-kbpc1series.pdf
-Diode Bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_Vishay_KBPC6
-Single phase bridge rectifier case KBPC6, see http://www.vishay.com/docs/93585/vs-kbpc1series.pdf
-Diode Bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_Vishay_KBU
-Vishay KBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88656/kbu4.pdf
-Vishay KBU rectifier diode bridge
-0
-4
-4
 Display
 AG12864E
 STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
@@ -14993,2848 +13341,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Mech2
-12401598E4#2A
-
-
-0
-28
-28
-Mech2
-HRO-TYPE-C-31-M-12
-
-
-0
-16
-13
-Mech2
-HRO-TYPE-C-31-M-12-Assembly
-
-
-0
-16
-13
-Mech2
-HRO-TYPE-C-31-M-12-HandSoldering
-
-
-0
-16
-13
-Mech2
-HRO-TYPE-C-31-M-13
-
-
-0
-16
-13
-Mech2
-Kailh_socket_MX
-MX-style keyswitch with Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Mech2
-USB_C_GCT_USB4085
-
-
-0
-20
-17
-Mech2
-Wurth-632723300011
-
-
-0
-32
-27
-Mech2
-Wurth-632723300011-HandSoldering
-
-
-0
-30
-26
-Mech2
-Wurth-632723300011-MaximumExtensionMount
-
-
-0
-32
-27
-Mech2
-tm-kicad-library-master_tm-kicad-lib.pretty_PRTR5V0U2X,215
-
-
-0
-4
-4
-Mech3
-1pin_conn
-Resitance 3 pas
-R
-0
-1
-1
-Mech3
-Breakaway_Tabs
-
-
-0
-0
-0
-Mech3
-CherryMX_1u
-
-
-0
-2
-2
-Mech3
-CherryMX_ChocV2_1.5u
-
-
-0
-5
-2
-Mech3
-CherryMX_ChocV2_1u
-
-
-0
-5
-2
-Mech3
-CherryMX_Choc_1.5u
-
-
-0
-4
-2
-Mech3
-CherryMX_Choc_1u
-
-
-0
-4
-2
-Mech3
-CherryMX_Choc_Hotswap
-
-
-0
-8
-2
-Mech3
-CherryMX_Choc_Hotswap_1.5u
-
-
-0
-8
-2
-Mech3
-CherryMX_Hotswap
-
-
-0
-2
-2
-Mech3
-CherryMX_Hotswap_1.5u
-
-
-0
-2
-2
-Mech3
-CherryMX_MidHeight_Choc_Hotswap
-
-
-0
-8
-2
-Mech3
-CherryMX_MidHeight_Hotswap
-
-
-0
-4
-2
-Mech3
-CherryMX_MidHeight_Hotswap_1.5u
-
-
-0
-4
-2
-Mech3
-ChocV1_V2_Hotswap
-
-
-0
-3
-2
-Mech3
-ChocV1_V2_Hotswap_1.5u
-
-
-0
-3
-2
-Mech3
-D3_SMD
-Resitance 3 pas
-R
-0
-4
-2
-Mech3
-D3_SMD_v2
-Resitance 3 pas
-R
-0
-2
-2
-Mech3
-D3_TH
-Resitance 3 pas
-R
-0
-4
-2
-Mech3
-D3_TH_SMD
-Resitance 3 pas
-R
-0
-6
-2
-Mech3
-D3_TH_SMD_v2
-Resitance 3 pas
-R
-0
-4
-2
-Mech3
-GND_pad
-
-
-0
-2
-2
-Mech3
-HOLE
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-Mech3
-IM_HOLE
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-Mech3
-JP
-
-
-0
-3
-2
-Mech3
-JPC2
-
-
-0
-3
-2
-Mech3
-Jumper
-
-
-0
-2
-2
-Mech3
-LED_WS2812B-PLCC4
-http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf
-LED NeoPixel
-0
-4
-4
-Mech3
-M2_HOLE
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-1
-0
-Mech3
-M2_HOLE_v2
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-Mech3
-M2_HOLE_v3
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-9
-1
-Mech3
-M2_Hole_NPTH_Outside
-
-
-0
-0
-0
-Mech3
-M2_Hole_TH
-
-
-0
-1
-0
-Mech3
-M2_Hole_TH_Outside
-
-
-0
-1
-0
-Mech3
-M2_Threads_v2
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-1
-0
-Mech3
-MJ-4PP-9
-
-
-0
-8
-4
-Mech3
-MJ-4PP-9_1side
-
-
-0
-4
-4
-Mech3
-MX_ALPS_PG1350_noLed
-
-
-0
-11
-2
-Mech3
-MX_ALPS_PG1350_noLed_1.75u
-
-
-0
-11
-2
-Mech3
-OLED
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-Mech3
-OLED_1side
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-Mech3
-OLED_v2
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-Mech3
-ProMicro_v2
-
-
-0
-48
-24
-Mech3
-ProMicro_v2_1side
-
-
-0
-24
-24
-Mech3
-ProMicro_v3
-
-
-0
-24
-24
-Mech3
-ProMicro_v3.5
-
-
-0
-24
-24
-Mech3
-R
-Resitance 3 pas
-R
-0
-2
-2
-Mech3
-ResetSW
-
-
-0
-2
-2
-Mech3
-ResetSW_1side
-
-
-0
-2
-2
-Mech3
-ResetSW_4
-
-
-0
-4
-2
-Mech3
-ResetSW_4P
-
-
-0
-4
-2
-Mech3
-SK6812MINI_rev
-
-
-0
-8
-4
-Mech3
-SK6812MINI_underglow_rev
-
-
-0
-8
-4
-Mech3
-SW_Hole
-
-
-0
-0
-0
-Mech3
-SW_Hole_ALPS
-
-
-0
-0
-0
-Mech3
-SW_Hole_TH
-
-
-0
-4
-1
-Mech3
-StripLED_1side
-
-
-0
-3
-3
-Mech3
-StripLED_OUT_1side
-
-
-0
-1
-1
-Mech3
-StripLED_rev
-
-
-0
-6
-3
-Mech3
-YS-SK6812MINI-E
-
-
-0
-4
-4
-Mech3
-YS-SK6812MINI-E_2
-
-
-0
-4
-4
-Mech3
-corne
-
-
-0
-0
-0
-Mech3
-corne-cherry-logo
-
-
-0
-0
-0
-Mech3
-corne-horizontal
-
-
-0
-0
-0
-Mech3
-corne-logo
-
-
-0
-0
-0
-Mech3
-corne-logo-horizontal
-
-
-0
-0
-0
-Mech3
-corne-logo-horizontal-mask
-
-
-0
-0
-0
-Mech3
-corne-logo-silk
-
-
-0
-0
-0
-Mech3
-corne-mask
-
-
-0
-0
-0
-Mech3
-keyswitch_cherrymx_alps_choc12_1.5u
-
-
-0
-6
-2
-Mech3
-keyswitch_cherrymx_alps_choc12_1u
-
-
-0
-6
-2
-Mech3
-keyswitch_hole
-
-
-0
-2
-2
-Mech3
-petit_split-logo
-
-
-0
-0
-0
-Mech3
-spacer_m2
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-Mech3
-thread_m2
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-Mech3
-waffle
-
-
-0
-0
-0
-Mech4
-SW_Cherry_MX_PCB
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_1.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_1.25u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.25u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_1.25u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.25u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_1.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.50u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_1.50u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.50u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_1.75u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.75u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_1.75u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.75u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_2.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_2.00u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.00u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_2.25u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.25u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_2.25u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.25u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_2.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.50u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_2.50u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.50u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_2.75u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.75u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_2.75u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.75u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_3.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 3.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_3.00u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 3.00u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_4.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 4.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_4.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 4.50u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_5.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 5.50u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_6.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 6.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_6.00u_Offset
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 6.00u Offset
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_6.25u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 6.25u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_6.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 6.50u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_7.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 7.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_ISOEnter
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_ISOEnter_Rotated90
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_ISOEnter_Rotated180
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
-0
-2
-2
-Mech4
-SW_Cherry_MX_PCB_ISOEnter_Rotated270
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_1.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 1.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_1.25u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 1.25u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_1.25u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 1.25u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_1.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 1.50u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_1.50u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 1.50u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_1.75u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 1.75u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_1.75u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 1.75u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_2.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 2.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_2.00u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 2.00u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_2.25u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 2.25u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_2.25u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 2.25u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_2.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 2.50u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_2.50u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 2.50u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_2.75u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 2.75u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_2.75u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 2.75u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_3.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 3.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_3.00u_Rotated
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 3.00u Rotated
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_4.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 4.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_4.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 4.50u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_5.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 5.50u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_6.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 6.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_6.00u_Offset
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 6.00u Offset
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_6.25u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 6.25u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_6.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 6.50u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_7.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate 7.00u
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_ISOEnter
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_ISOEnter_Rotated90
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_ISOEnter_Rotated180
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
-0
-2
-2
-Mech4
-SW_Cherry_MX_Plate_ISOEnter_Rotated270
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
-0
-2
-2
-Mech5
-Stabilizer_Cherry_MX_2u
-Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
-Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
-0
-0
-0
-Mech5
-Stabilizer_Cherry_MX_3u
-Cherry MX key stabilizer 3u
-Cherry MX key stabilizer 3u
-0
-0
-0
-Mech5
-Stabilizer_Cherry_MX_6.25u
-Cherry MX key stabilizer 6.25u
-Cherry MX key stabilizer 6.25u
-0
-0
-0
-Mech5
-Stabilizer_Cherry_MX_6u
-Cherry MX key stabilizer 6u
-Cherry MX key stabilizer 6u
-0
-0
-0
-Mech5
-Stabilizer_Cherry_MX_7u
-Cherry MX key stabilizer 7u
-Cherry MX key stabilizer 7u
-0
-0
-0
-Mech5
-Stabilizer_Cherry_MX_8u
-Cherry MX key stabilizer 8u 9u 10u
-Cherry MX key stabilizer 8u 9u 10u
-0
-0
-0
-Mech6
-ARDUINO_MICRO_SHIELD
-
-ARDUINO, MICRO
-0
-34
-31
-Mech7
-3_Pin_Jumper
-
-
-0
-9
-3
-Mech7
-4pin35mmAudio
-
-
-0
-6
-6
-Mech7
-AST1109MLTRQ
-Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
-Murata Buzzer Beeper
-0
-2
-2
-Mech7
-AT90USB1286_TQFP_14mm
-64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-64
-64
-Mech7
-ATMEGA32U4-AU
-
-
-0
-44
-44
-Mech7
-ArduinoProMicro
-
-
-0
-24
-24
-Mech7
-ArduinoProMicro-BackSide
-
-
-0
-24
-24
-Mech7
-ArduinoProMicro-Mini-USB
-
-
-0
-24
-24
-Mech7
-ArduinoProMicro-Mini-USB-No-Text
-
-
-0
-24
-24
-Mech7
-ArduinoProMicro-Mini-USB-ZigZag
-
-
-0
-24
-24
-Mech7
-ArduinoProMicro-TopSide
-
-
-0
-24
-24
-Mech7
-ArduinoProMicro-ZigZag
-
-
-0
-24
-24
-Mech7
-CUI_SJ-43614-SMT
-
-
-0
-4
-4
-Mech7
-C_0402
-Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
-capacitor 0402
-0
-2
-2
-Mech7
-C_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Mech7
-Cherry-MX-Low-Profile
-
-
-0
-2
-2
-Mech7
-Crystal_SMD_2520-4pin_2.5x2.0mm
-SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
-SMD SMT crystal
-0
-4
-4
-Mech7
-Crystal_SMD_3225-4pin_3.2x2.5mm
-SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
-SMD SMT crystal
-0
-4
-4
-Mech7
-D_0805
-
-
-0
-2
-2
-Mech7
-D_SOD-323
-SOD-323
-SOD-323
-0
-2
-2
-Mech7
-D_SOD123
-
-
-0
-2
-2
-Mech7
-D_SOD123F
-
-
-0
-2
-2
-Mech7
-Diode
-
-
-0
-2
-2
-Mech7
-Diode-Hybrid-Back
-
-
-0
-6
-2
-Mech7
-Diode-dual
-
-
-0
-10
-2
-Mech7
-Diode-hybrid-3pad
-
-
-0
-6
-2
-Mech7
-Diode_Long
-
-
-0
-2
-2
-Mech7
-Elite-C
-
-
-0
-29
-29
-Mech7
-Elite-C-ZigZag
-
-
-0
-29
-29
-Mech7
-Elite-C-castellated-24pin
-
-
-0
-24
-24
-Mech7
-Elite-C-castellated-24pin-holes
-
-
-0
-48
-24
-Mech7
-Elite-C-castellated-29pin
-
-
-0
-29
-29
-Mech7
-Elite-C-castellated-29pin-holes
-
-
-0
-58
-29
-Mech7
-Epson_TSX-3225
-
-
-0
-4
-4
-Mech7
-Fuse_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-Mech7
-HRO-TYPE-C-31-M-12-Assembly
-
-
-0
-16
-13
-Mech7
-Header-6-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Mech7
-Header-12-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-Mech7
-Header-12-Pin-ZigZag-Square
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-Mech7
-ICSP-Header
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Mech7
-ICSP-Header-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Mech7
-JUMPER_SMD_2DUB
-
-
-0
-12
-2
-Mech7
-KLJ-1102
-
-
-0
-2
-2
-Mech7
-Kailh-PG1350-1.5u
-
-
-0
-4
-4
-Mech7
-Kailh-PG1350-1.25u
-
-
-0
-4
-4
-Mech7
-Kailh-PG1350-1.25u-LED-flip
-
-
-0
-4
-4
-Mech7
-Kailh-PG1350-1u
-
-
-0
-4
-4
-Mech7
-Kailh-PG1350-1u-No-Clickhole
-
-
-0
-4
-4
-Mech7
-Kailh-PG1350-1u-NoLED
-
-
-0
-2
-2
-Mech7
-Kailh-PG1350-1u-reversible
-
-
-0
-5
-4
-Mech7
-Kailh-PG1350-1u-reversible-No-Clickhole
-
-
-0
-5
-4
-Mech7
-Kailh-PG1350-1u-reversible-flip
-
-
-0
-5
-4
-Mech7
-Kailh-PG1350-2.5u
-
-
-0
-4
-4
-Mech7
-Kailh-PG1350-2u
-
-
-0
-4
-4
-Mech7
-Kailh-PG1350-2u-NoLED
-
-
-0
-2
-2
-Mech7
-Kailh-PG1350-2u-Vert-NoLED
-
-
-0
-2
-2
-Mech7
-LED_3mm
-
-
-0
-2
-2
-Mech7
-LQFP-48_7x7mm_Pitch0.5mm
-48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Mech7
-Low-Profile-Choc-MX
-
-
-0
-5
-4
-Mech7
-MD_Diode
-
-
-0
-2
-2
-Mech7
-MX-Alps-Choc-1U
-
-
-0
-8
-4
-Mech7
-MX-Alps-Choc-1U-No-Clickhole
-
-
-0
-8
-4
-Mech7
-MX-Alps-Choc-1U-NoLED
-
-
-0
-6
-2
-Mech7
-MX-Alps-Choc-1U-NoLED-Alt
-
-
-0
-6
-2
-Mech7
-MX-Alps-Choc-2U
-
-
-0
-8
-4
-Mech7
-MX-Alps-Choc-2U-StabFlip
-
-
-0
-8
-4
-Mech7
-MX-Alps_DMask
-
-
-0
-2
-1
-Mech7
-MX-Alps_FMask
-
-
-0
-2
-1
-Mech7
-MX-Alps_FMask-2u
-
-
-0
-2
-1
-Mech7
-MX-Alps_Switch_Cutout
-
-
-0
-2
-1
-Mech7
-MX-Alps_Switch_Cutout-1u_1.25u
-
-
-0
-0
-0
-Mech7
-MX-Alps_Switch_Cutout-1u_1.25u-3u-wide
-
-
-0
-0
-0
-Mech7
-MX-Alps_Switch_Cutout-1u_2u
-
-
-0
-2
-1
-Mech7
-MX-Alps_Switch_Cutout-3u-wide
-
-
-0
-0
-0
-Mech7
-MX-Quad
-MX/Alps footprint
-
-0
-8
-2
-Mech7
-MX_FMask
-
-
-0
-2
-1
-Mech7
-MX_FMask-2u
-
-
-0
-3
-1
-Mech7
-MX_FMask-2u-with-cutout
-
-
-0
-2
-1
-Mech7
-MX_FMask-with-cutout
-
-
-0
-2
-1
-Mech7
-MX_LED
-
-
-0
-2
-2
-Mech7
-MX_Stabilizer_Cutout
-
-
-0
-0
-0
-Mech7
-MX_Stabilizer_Cutout-2u
-
-
-0
-0
-0
-Mech7
-MX_Switch_Cutout
-
-
-0
-0
-0
-Mech7
-MX_Switch_Mod_Cutout
-
-
-0
-0
-0
-Mech7
-Mini-USB
-
-
-0
-7
-6
-Mech7
-MountingHole
-
-
-0
-1
-0
-Mech7
-QFN-44-1EP_7x7mm_Pitch0.5mm
-UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
-QFN 0.5
-0
-60
-45
-Mech7
-RGB-6028
-
-
-0
-4
-4
-Mech7
-RGB_3528_Blue_Notch
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Mech7
-RGB_3528_Blue_Notch-MX
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Mech7
-RGB_3528_Blue_Notch-MX-Flip
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Mech7
-R_0402
-Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
-resistor 0402
-0
-2
-2
-Mech7
-R_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Mech7
-R_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-Mech7
-Resistor
-
-
-0
-2
-2
-Mech7
-Resistor-Compact
-
-
-0
-2
-2
-Mech7
-Resistor-Compact-1-side
-
-
-0
-2
-2
-Mech7
-Resistor-Hybrid
-
-
-0
-10
-2
-Mech7
-Resistor-Hybrid-Back
-
-
-0
-6
-2
-Mech7
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-Mech7
-RotaryEncoder_EC11
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Mech7
-RotaryEncoder_EC11-no-legs
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Mech7
-SK6812-MINI-E
-
-
-0
-4
-4
-Mech7
-SM0805D
-
-
-0
-2
-2
-Mech7
-SOIC-8_3.9x4.9mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-Mech7
-SOT-23
-SOT-23, Standard
-SOT-23
-0
-3
-3
-Mech7
-SOT-23_Handsoldering
-SOT-23, Handsoldering
-SOT-23
-0
-3
-3
-Mech7
-SOT-143B
-SOT143B
-
-0
-4
-4
-Mech7
-SOT-363_SC-70-6
-SOT-363, SC-70-6
-SOT-363 SC-70-6
-0
-6
-6
-Mech7
-SW_SPST_3x3
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-Mech7
-SW_SPST_TL3342
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-Mech7
-SW_Tactile_SPST_Angled_MJTP1117
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-4
-2
-Mech7
-SW_Tactile_SPST_Angled_MJTP1117-no-mount
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-2
-2
-Mech7
-SinglePad
-
-
-0
-1
-1
-Mech7
-SolderJumper
-
-
-0
-4
-3
-Mech7
-SolderJumperLeft
-
-
-0
-3
-3
-Mech7
-SolderJumperPair
-
-
-0
-6
-3
-Mech7
-SolderJumperRight
-
-
-0
-3
-3
-Mech7
-SolderJumperSet
-
-
-0
-12
-6
-Mech7
-SolderJumperSets
-
-
-0
-6
-2
-Mech7
-SolidCopper
-Mounting Hole 2.2mm, M2
-mounting hole 2.2mm m2
-0
-2
-1
-Mech7
-TQFP-44_10x10mm_Pitch0.8mm
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-44
-44
-Mech7
-TQFP-48_7x7mm_Pitch0.5mm
-48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Mech7
-TRRS-PJ-320A
-
-
-0
-4
-4
-Mech7
-TRRS-PJ-320A-dual
-
-
-0
-5
-4
-Mech7
-TRRS-PJ-320A-no-Fmask
-
-
-0
-8
-4
-Mech7
-TRRS-PJ-320D
-
-
-0
-4
-4
-Mech7
-TRRS-PJ-605
-
-
-0
-6
-6
-Mech7
-TRRS-PJ-606
-
-
-0
-6
-6
-Mech7
-TRRS_Jack
-
-
-0
-6
-6
-Mech7
-TRRS_Jack-one-sided
-
-
-0
-4
-4
-Mech7
-TRRS_Jumper
-
-
-0
-6
-6
-Mech7
-Teensy_2.0
-
-
-0
-31
-31
-Mech7
-Triple-Dual-1u-LED
-
-
-0
-21
-4
-Mech7
-Triple-Dual-1u-LED-flip
-
-
-0
-21
-4
-Mech7
-Triple-Dual-2u-LED
-
-
-0
-21
-4
-Mech7
-Triple-Dual-2u-LED-stab-flip
-
-
-0
-21
-4
-Mech7
-USB-C-12-Pin-MidMount
-
-
-0
-16
-13
-Mech7
-USB-Mini-B_ LCSC-C46398
-
-
-0
-9
-6
-Mech7
-USB-Mini-B_2leg
-
-
-0
-7
-6
-Mech7
-USB_miniB_HandSolder
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
-0
-9
-9
-Mech7
-VIA-0.6mm
-
-
-0
-1
-1
-Mech7
-WS2812B
-
-
-0
-4
-4
-Mech7
-breakaway-hole
-
-
-0
-0
-0
-Mech7
-breakaway-hole-big
-
-
-0
-0
-0
-Mech7
-breakaway-mousebites
-
-
-0
-0
-0
-Mech7
-solder_jumper
-
-
-0
-2
-2
-Mech_2
-4P4C
-http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf
-4P4C, RJ
-0
-6
-6
-Mech_2
-ALPS_PLATE_SPRING
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-4
-3
-Mech_2
-ALPS_PLATE_SPRING_CUTOUT
-
-
-0
-0
-0
-Mech_2
-ALPS_SKCM
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-2
-2
-Mech_2
-ALPS_SKCM_CUTOUT
-
-
-0
-0
-0
-Mech_2
-ALPS_SKCM_CUTOUT_STAB256
-
-
-0
-0
-0
-Mech_2
-ALPS_SKCM_CUTOUT_STAB406
-
-
-0
-0
-0
-Mech_2
-ALPS_SKCM_CUTOUT_STAB883
-
-
-0
-0
-0
-Mech_2
-ALPS_SKCM_LED
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-4
-4
-Mech_2
-ALPS_SKCM_reverse_pad
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-2
-2
-Mech_2
-AVR_ICSP_3x2
-Double rangee de contacts 2 x 4 pins
-CONN
-0
-6
-6
-Mech_2
-C_1608
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Mech_2
-C_1608_rev2
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Mech_2
-C_3216
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-Mech_2
-C_3216_rev2
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-Mech_2
-C_3225
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-Mech_2
-C_3528
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-Mech_2
-C_3528_pol
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-Mech_2
-C_6032
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-Mech_2
-DSUB9P
-
-
-0
-11
-10
-Mech_2
-D_SC79
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Mech_2
-D_SOD123
-
-
-0
-2
-2
-Mech_2
-D_SOD123W_hand
-
-
-0
-2
-2
-Mech_2
-D_SOD123_axial
-
-
-0
-6
-2
-Mech_2
-D_SOD123_hand
-
-
-0
-2
-2
-Mech_2
-D_axial
-
-
-0
-2
-2
-Mech_2
-FA-238
-
-
-0
-4
-3
-Mech_2
-HC-49_SMT
-
-
-0
-2
-2
-Mech_2
-HHKB_JP_HRS_DF14_15P
-http://www.mouser.com/ds/2/185/e53800017-12550.pdf
-HHKB JP, HRS, Hirose, DF14, 15P
-0
-17
-17
-Mech_2
-HHKB_PRO2_ZH13
-http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
-HHKB pro2, JST, ZH
-0
-15
-15
-Mech_2
-HHKB_PRO2_ZH13_TH
-http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
-JST ZH 13 HHKB pro2
-0
-13
-13
-Mech_2
-HHKB_PRO_PH15
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST PH 15 HHKB PRO
-0
-15
-15
-Mech_2
-HOLE_M2.6
-
-
-0
-1
-1
-Mech_2
-HOLE_M3
-
-
-0
-1
-1
-Mech_2
-HRS_DF14_20P
-http://www.mouser.com/ds/2/185/e53800017-12550.pdf
-HHKB JP, HRS, Hirose, DF14, 15P
-0
-22
-22
-Mech_2
-JST_PH2_SMT
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST, PH, Lipo, battery
-0
-4
-3
-Mech_2
-JST_PH2_SMT_TH
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST, PH, Lipo, battery
-0
-6
-3
-Mech_2
-JST_PH2_TH
-
-JST, PH2, Lipo
-0
-2
-2
-Mech_2
-LED_0805
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-Mech_2
-LED_2012_HSOL
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-Mech_2
-LED_3020_REFLOW
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-Mech_2
-LED_3025_DUAL
-
-
-0
-4
-4
-Mech_2
-LED_TH
-LED 3mm - Lead pitch 100mil (2,54mm)
-LED led 3mm 3MM 100mil 2,54mm
-0
-2
-2
-Mech_2
-LED_TH_BIVAR
-LED 3mm - Lead pitch 100mil (2,54mm)
-LED led 3mm 3MM 100mil 2,54mm
-0
-2
-2
-Mech_2
-LTC4054
-
-Lipo charger
-0
-5
-5
-Mech_2
-L_6x6MM
-
-
-0
-2
-2
-Mech_2
-L_7x7MM
-
-
-0
-2
-2
-Mech_2
-MINI_DIN_8
-
-
-0
-11
-9
-Mech_2
-MOS_FET_SOT23-3_HSOL
-SOT23
-
-0
-3
-3
-Mech_2
-PIN_1
-
-CONN pin 1 circle
-0
-1
-1
-Mech_2
-PIN_1_SQUARE
-
-CONN pin 1 square
-0
-1
-1
-Mech_2
-PPTC_nano
-
-
-0
-2
-2
-Mech_2
-PTC_3225
-
-
-0
-2
-2
-Mech_2
-Poker_oval_hole
-
-
-0
-1
-0
-Mech_2
-Poker_side_edge_long
-
-
-0
-1
-0
-Mech_2
-QFP32
-
-
-0
-32
-32
-Mech_2
-QFP32_reflow
-http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
-
-0
-32
-32
-Mech_2
-QFP44
-
-
-0
-44
-44
-Mech_2
-QFP44_reflow
-http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
-
-0
-44
-44
-Mech_2
-RN42
-
-
-0
-32
-32
-Mech_2
-R_1608
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Mech_2
-R_1608_NOGUIDE
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Mech_2
-R_1608_rev2
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Mech_2
-R_2012
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Mech_2
-SLP3-200-100-F
-
-
-0
-0
-0
-Mech_2
-SM_3216_POL
-
-
-0
-2
-2
-Mech_2
-SOLDER_JUMPER_2
-
-solder jumper bridge configuration
-0
-2
-2
-Mech_2
-SOLDER_JUMPER_2_WIRED
-
-solder jumper bridge configuration
-0
-3
-1
-Mech_2
-SOLDER_JUMPER_3
-
-solder jumper bridge configuration
-0
-3
-3
-Mech_2
-SOT23-3_HSOL
-SOT23
-
-0
-3
-3
-Mech_2
-SOT23-5_HSOL
-SOT23
-
-0
-5
-5
-Mech_2
-SOT23-6_HSOL
-SOT23
-
-0
-6
-6
-Mech_2
-SW_ALPS_SKRP
-
-
-0
-4
-2
-Mech_2
-SW_ALPS_SKSG
-
-
-0
-6
-4
-Mech_2
-SW_ALPS_SSAA
-
-
-0
-8
-8
-Mech_2
-SW_MINI_SLIDE
-
-
-0
-6
-6
-Mech_2
-SW_TACT_TH_HORIZ
-http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHH/SKHHLMA010.html
-ALPS SKHH tactile switch
-0
-4
-4
-Mech_2
-SW_TACT_TH_HORIZ_LOW
-http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHL/SKHLLAA010.html
-ALPS SKHLL low tactile switch
-0
-4
-4
-Mech_2
-USB_A
-
-
-0
-6
-5
-Mech_2
-USB_A_PLUG
-
-
-0
-8
-6
-Mech_2
-USB_microB
-USB microB hirose ZX62R-B-5P
-USB micorB hirose
-0
-11
-6
-Mech_2
-USB_miniB
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
-0
-9
-9
-Mech_2
-USB_miniB_hirose_5S8
-USB miniB hirose UX60SC-MB-5S8
-USB miniB hirose through hole UX60SC-MB-5S8
-0
-9
-6
-Mech_2
-USB_miniB_hirose_5ST
-USB miniB hirose UX60SC_MB_5ST
-USB miniB hirose new
-0
-7
-6
-Mech_2
-USB_miniB_hirose_5ST_hand
-USB miniB hirose UX60SC_MB_5ST
-USB miniB hirose new
-0
-7
-6
-Mech_2
-WT12_bluegiga
-
-BlueGiga, WT12, Bluetooth
-0
-31
-31
-Mech_2
-XTAL_HC_49_TH
-
-
-0
-2
-2
-Mech_2
-tmk2016
-
-
-0
-0
-0
-Mech_2
-tmk_logo
-
-
-0
-0
-0
-Mech_4
-12401598E4#2A
-
-
-0
-28
-28
-Mech_4
-HRO-TYPE-C-31-M-12
-
-
-0
-16
-13
-Mech_4
-HRO-TYPE-C-31-M-12-Assembly
-
-
-0
-16
-13
-Mech_4
-HRO-TYPE-C-31-M-12-HandSoldering
-
-
-0
-16
-13
-Mech_4
-HRO-TYPE-C-31-M-13
-
-
-0
-16
-13
-Mech_4
-Kailh_socket_MX
-MX-style keyswitch with Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Mech_4
-USB_C_GCT_USB4085
-
-
-0
-20
-17
-Mech_4
-Wurth-632723300011
-
-
-0
-32
-27
-Mech_4
-Wurth-632723300011-HandSoldering
-
-
-0
-30
-26
-Mech_4
-Wurth-632723300011-MaximumExtensionMount
-
-
-0
-32
-27
-Mech_4
-tm-kicad-library-master_tm-kicad-lib.pretty_PRTR5V0U2X,215
-
-
-0
-4
-4
-Mech_55
-MX_PCB
-
-
-0
-2
-2
-Mech_55
-SK6812MINI_rev
-
-
-0
-4
-4
-Mech_55
-diode
-
-
-0
-2
-2
-Mech_55
-switch
-
-
-0
-2
-2
-Mech_55
-wirepad
-
-
-0
-1
-1
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -25586,6 +21092,1231 @@ Wurth-632723300011-MaximumExtensionMount
 27
 kailh MX
 tm-kicad-library-master_tm-kicad-lib.pretty_PRTR5V0U2X,215
+
+
+0
+4
+4
+kailh_switches
+SW_Hotswap_Kailh
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_1.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.00u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_1.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.25u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_1.25u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.25u Rotated
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_1.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.50u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_1.50u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.50u Rotated
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_1.75u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.75u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_1.75u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.75u Rotated
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_2.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.00u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_2.00u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.00u Rotated
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_2.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.25u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_2.25u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.25u Rotated
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_2.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.50u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_2.50u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.50u Rotated
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_2.75u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.75u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_2.75u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.75u Rotated
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_3.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 3.00u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_3.00u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 3.00u Rotated
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_4.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 4.00u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_4.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 4.50u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_5.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 5.50u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_6.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 6.00u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_6.00u_Offset
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 6.00u Offset
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_6.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 6.25u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_6.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 6.50u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_7.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 7.00u
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_ISOEnter
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket ISOEnter
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_ISOEnter_Rotated90
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket ISOEnter
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_ISOEnter_Rotated180
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket ISOEnter
+0
+2
+2
+kailh_switches
+SW_Hotswap_Kailh_ISOEnter_Rotated270
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket ISOEnter
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_1.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.00u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_1.25u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.25u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_1.25u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.25u Rotated
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_1.50u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.50u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_1.50u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.50u Rotated
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_1.75u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.75u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_1.75u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.75u Rotated
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_2.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.00u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_2.00u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.00u Rotated
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_2.25u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.25u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_2.25u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.25u Rotated
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_2.50u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.50u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_2.50u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.50u Rotated
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_2.75u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.75u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_2.75u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.75u Rotated
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_3.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 3.00u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_3.00u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 3.00u Rotated
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_4.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 4.00u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_4.50u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 4.50u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_5.50u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 5.50u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_6.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 6.00u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_6.00u_Offset
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 6.00u Offset
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_6.25u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 6.25u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_6.50u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 6.50u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_7.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 7.00u
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_ISOEnter
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch ISOEnter
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_ISOEnter_Rotated90
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch ISOEnter
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_ISOEnter_Rotated180
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch ISOEnter
+0
+2
+2
+kailh_switches
+SW_Kailh_Choc_V1_ISOEnter_Rotated270
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch ISOEnter
+0
+2
+2
+lib2
+D_SOD-123-Pretty
+SOD-123
+SOD-123
+0
+2
+2
+lib2
+Generic-Mounthole
+
+
+0
+1
+1
+lib2
+JST-SR-3
+
+
+0
+5
+3
+lib2
+JST-SR-4
+
+
+0
+6
+4
+lib2
+Jumper-UserFriendly
+
+
+0
+2
+2
+lib2
+Jumper-UserFriendly-Small
+
+
+0
+2
+2
+lib2
+LED-6028
+
+
+0
+2
+2
+lib2
+LED_D3.0mm-NoSilk
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+lib2
+LED_D3.0mm-Pretty
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+lib2
+Molex-0548190519
+
+
+0
+7
+6
+lib2
+Molex-0548190589
+
+
+0
+9
+6
+lib2
+PJ-3200B-4A
+
+
+0
+4
+4
+lib2
+PJ-3200B-4A-Assembly
+
+
+0
+4
+4
+lib2
+PushButton_6x6mm_TH
+
+
+0
+4
+4
+lib2
+PushButton_6x6mm_TH_Pretty
+
+
+0
+4
+4
+lib2
+RGB-6028
+
+
+0
+4
+4
+lib2
+Reset_Pretty
+
+
+0
+6
+6
+lib2
+Reset_Pretty-Mask
+
+
+0
+6
+6
+lib2
+SKQG-1155865
+
+
+0
+4
+4
+lib2
+SKQGADE010
+
+
+0
+4
+4
+lib2
+SOT143B
+
+
+0
+4
+4
+lib2
+USB-A-Generic
+
+
+0
+6
+5
+lib2
+USON-TPDxE05U06
+
+
+0
+10
+10
+lib2
+breakaway-mousebites
+
+
+0
+0
+0
+lib3
+4P4C
+http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf
+4P4C, RJ
+0
+6
+6
+lib3
+ALPS_PLATE_SPRING
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+4
+3
+lib3
+ALPS_PLATE_SPRING_CUTOUT
+
+
+0
+0
+0
+lib3
+ALPS_SKCM
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+2
+2
+lib3
+ALPS_SKCM_CUTOUT
+
+
+0
+0
+0
+lib3
+ALPS_SKCM_CUTOUT_STAB256
+
+
+0
+0
+0
+lib3
+ALPS_SKCM_CUTOUT_STAB406
+
+
+0
+0
+0
+lib3
+ALPS_SKCM_CUTOUT_STAB883
+
+
+0
+0
+0
+lib3
+ALPS_SKCM_LED
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+4
+4
+lib3
+ALPS_SKCM_reverse_pad
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+2
+2
+lib3
+AVR_ICSP_3x2
+Double rangee de contacts 2 x 4 pins
+CONN
+0
+6
+6
+lib3
+C_1608
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+lib3
+C_1608_rev2
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+lib3
+C_3216
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+lib3
+C_3216_rev2
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+lib3
+C_3225
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+lib3
+C_3528
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+lib3
+C_3528_pol
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+lib3
+C_6032
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+lib3
+DSUB9P
+
+
+0
+11
+10
+lib3
+D_SC79
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+lib3
+D_SOD123
+
+
+0
+2
+2
+lib3
+D_SOD123W_hand
+
+
+0
+2
+2
+lib3
+D_SOD123_axial
+
+
+0
+6
+2
+lib3
+D_SOD123_hand
+
+
+0
+2
+2
+lib3
+D_axial
+
+
+0
+2
+2
+lib3
+FA-238
+
+
+0
+4
+3
+lib3
+HC-49_SMT
+
+
+0
+2
+2
+lib3
+HHKB_JP_HRS_DF14_15P
+http://www.mouser.com/ds/2/185/e53800017-12550.pdf
+HHKB JP, HRS, Hirose, DF14, 15P
+0
+17
+17
+lib3
+HHKB_PRO2_ZH13
+http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
+HHKB pro2, JST, ZH
+0
+15
+15
+lib3
+HHKB_PRO2_ZH13_TH
+http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
+JST ZH 13 HHKB pro2
+0
+13
+13
+lib3
+HHKB_PRO_PH15
+http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+JST PH 15 HHKB PRO
+0
+15
+15
+lib3
+HOLE_M2.6
+
+
+0
+1
+1
+lib3
+HOLE_M3
+
+
+0
+1
+1
+lib3
+HRS_DF14_20P
+http://www.mouser.com/ds/2/185/e53800017-12550.pdf
+HHKB JP, HRS, Hirose, DF14, 15P
+0
+22
+22
+lib3
+JST_PH2_SMT
+http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+JST, PH, Lipo, battery
+0
+4
+3
+lib3
+JST_PH2_SMT_TH
+http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+JST, PH, Lipo, battery
+0
+6
+3
+lib3
+JST_PH2_TH
+
+JST, PH2, Lipo
+0
+2
+2
+lib3
+LED_0805
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+lib3
+LED_2012_HSOL
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+lib3
+LED_3020_REFLOW
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+lib3
+LED_3025_DUAL
+
+
+0
+4
+4
+lib3
+LED_TH
+LED 3mm - Lead pitch 100mil (2,54mm)
+LED led 3mm 3MM 100mil 2,54mm
+0
+2
+2
+lib3
+LED_TH_BIVAR
+LED 3mm - Lead pitch 100mil (2,54mm)
+LED led 3mm 3MM 100mil 2,54mm
+0
+2
+2
+lib3
+LTC4054
+
+Lipo charger
+0
+5
+5
+lib3
+L_6x6MM
+
+
+0
+2
+2
+lib3
+L_7x7MM
+
+
+0
+2
+2
+lib3
+MINI_DIN_8
+
+
+0
+11
+9
+lib3
+MOS_FET_SOT23-3_HSOL
+SOT23
+
+0
+3
+3
+lib3
+PIN_1
+
+CONN pin 1 circle
+0
+1
+1
+lib3
+PIN_1_SQUARE
+
+CONN pin 1 square
+0
+1
+1
+lib3
+PPTC_nano
+
+
+0
+2
+2
+lib3
+PTC_3225
+
+
+0
+2
+2
+lib3
+Poker_oval_hole
+
+
+0
+1
+0
+lib3
+Poker_side_edge_long
+
+
+0
+1
+0
+lib3
+QFP32
+
+
+0
+32
+32
+lib3
+QFP32_reflow
+http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
+
+0
+32
+32
+lib3
+QFP44
+
+
+0
+44
+44
+lib3
+QFP44_reflow
+http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
+
+0
+44
+44
+lib3
+RN42
+
+
+0
+32
+32
+lib3
+R_1608
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+lib3
+R_1608_NOGUIDE
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+lib3
+R_1608_rev2
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+lib3
+R_2012
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+lib3
+SLP3-200-100-F
+
+
+0
+0
+0
+lib3
+SM_3216_POL
+
+
+0
+2
+2
+lib3
+SOLDER_JUMPER_2
+
+solder jumper bridge configuration
+0
+2
+2
+lib3
+SOLDER_JUMPER_2_WIRED
+
+solder jumper bridge configuration
+0
+3
+1
+lib3
+SOLDER_JUMPER_3
+
+solder jumper bridge configuration
+0
+3
+3
+lib3
+SOT23-3_HSOL
+SOT23
+
+0
+3
+3
+lib3
+SOT23-5_HSOL
+SOT23
+
+0
+5
+5
+lib3
+SOT23-6_HSOL
+SOT23
+
+0
+6
+6
+lib3
+SW_ALPS_SKRP
+
+
+0
+4
+2
+lib3
+SW_ALPS_SKSG
+
+
+0
+6
+4
+lib3
+SW_ALPS_SSAA
+
+
+0
+8
+8
+lib3
+SW_MINI_SLIDE
+
+
+0
+6
+6
+lib3
+SW_TACT_TH_HORIZ
+http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHH/SKHHLMA010.html
+ALPS SKHH tactile switch
+0
+4
+4
+lib3
+SW_TACT_TH_HORIZ_LOW
+http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHL/SKHLLAA010.html
+ALPS SKHLL low tactile switch
+0
+4
+4
+lib3
+USB_A
+
+
+0
+6
+5
+lib3
+USB_A_PLUG
+
+
+0
+8
+6
+lib3
+USB_microB
+USB microB hirose ZX62R-B-5P
+USB micorB hirose
+0
+11
+6
+lib3
+USB_miniB
+http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
+USB miniB hirose
+0
+9
+9
+lib3
+USB_miniB_hirose_5S8
+USB miniB hirose UX60SC-MB-5S8
+USB miniB hirose through hole UX60SC-MB-5S8
+0
+9
+6
+lib3
+USB_miniB_hirose_5ST
+USB miniB hirose UX60SC_MB_5ST
+USB miniB hirose new
+0
+7
+6
+lib3
+USB_miniB_hirose_5ST_hand
+USB miniB hirose UX60SC_MB_5ST
+USB miniB hirose new
+0
+7
+6
+lib3
+WT12_bluegiga
+
+BlueGiga, WT12, Bluetooth
+0
+31
+31
+lib3
+XTAL_HC_49_TH
+
+
+0
+2
+2
+lib3
+tmk2016
+
+
+0
+0
+0
+lib3
+tmk_logo
+
+
+0
+0
+0
+oled
+SSD1306_OLED-0.91-128x32
+
+
+0
+14
+14
+oledv2
+SSD1306-0.91-OLED-4pin-128x32
 
 
 0
