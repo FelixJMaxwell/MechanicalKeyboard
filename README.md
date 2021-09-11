@@ -28,3 +28,24 @@ Footprint sin marca para cada tecla
 
 # Cuarenta Keyboard
 <img src="/cuarenta/plot/cuarenta_1.jpg" alt="errores" width="1200"/>
+La PCB anterior contiene tres errores
+
+1.- Un switch no esta conectado al diodo correspondiente
+<img src="/cuarenta/plot/error_1.png" alt="errores" width="600"/>
+
+2.- Hizo falta poner una via para conectar tres switches a su columna correspondiente
+<img src="/cuarenta/plot/error_3.png" alt="errores" width="600"/>
+
+3.- El encoder esta conectado en la misma posicion del ultimo switch de su columna, se de agregar a una nueva fila.
+<img src="/cuarenta/plot/error_2.png" alt="errores" width="600"/>
+
+Esta PCB la envie a producción con JLCPCB antes de ver los errores por lo que llegaron cinco placas todas con los tres errores anteriores.
+<img src="/cuarenta/plot/pcbconerrores.jpg" alt="errores" width="800"/>
+
+Errores en la PCB, corregidos con puentes usando barillas de laton.
+
+Encoder + switch conectado a otro pin del Arduino micro al mismo tiempo que se puentean los adaptadores para hotswap 
+<img src="/cuarenta/plot/puente_1.jpg" alt="errores" width="800"/>
+
+Se conecta el adaptador hotswap al diodo correspondiente
+<img src="/cuarenta/plot/puente_2.jpg" alt="errores" width="800"/>
