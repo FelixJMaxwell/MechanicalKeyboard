@@ -22,3 +22,9 @@ Footprint sin marca para cada tecla
   
 # Split keyboard
 <img src="/SplitKeyboard/plots/Split_1.jpg" alt="drawing" width="1200"/>  
+
+<br>
+<br>
+
+# Cuarenta Keyboard
+<img src="/cuarenta/plots/cuarenta_1.jpg" alt="errores" width="1200"/>
