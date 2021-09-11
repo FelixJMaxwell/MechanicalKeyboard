@@ -27,4 +27,4 @@ Footprint sin marca para cada tecla
 <br>
 
 # Cuarenta Keyboard
-<img src="/cuarenta/plots/cuarenta_1.jpg" alt="errores" width="1200"/>
+<img src="/cuarenta/plot/cuarenta_1.jpg" alt="errores" width="1200"/>
