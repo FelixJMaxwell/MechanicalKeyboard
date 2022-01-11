@@ -1271,7 +1271,6 @@ en1
 NoConn ~ 8750 3850
 NoConn ~ 8750 3750
 NoConn ~ 8750 3650
-NoConn ~ 8750 2650
 NoConn ~ 8750 2550
 NoConn ~ 8750 2450
 NoConn ~ 8750 2350
@@ -1478,17 +1477,6 @@ F 3 "" H -9150 850 50  0001 C CNN
 	1    -9150 850 
 	1    0    0    -1  
 $EndComp
-$Comp
-L mech7:power_GND #PWR0104
-U 1 1 612D41F2
-P -9150 1450
-F 0 "#PWR0104" H -9150 1200 50  0001 C CNN
-F 1 "power_GND" H -9145 1277 50  0000 C CNN
-F 2 "" H -9150 1450 50  0001 C CNN
-F 3 "" H -9150 1450 50  0001 C CNN
-	1    -9150 1450
-	1    0    0    -1  
-$EndComp
 Text GLabel -9200 1150 0    50   Input ~ 0
 LED
 Wire Wire Line
@@ -1688,17 +1676,6 @@ F 1 "VCC" H -383 2123 50  0000 C CNN
 F 2 "" H -400 1950 50  0001 C CNN
 F 3 "" H -400 1950 50  0001 C CNN
 	1    -400 1950
-	-1   0    0    -1  
-$EndComp
-$Comp
-L mech7:power_GND #PWR0106
-U 1 1 613B89A7
-P -400 2550
-F 0 "#PWR0106" H -400 2300 50  0001 C CNN
-F 1 "power_GND" H -395 2377 50  0000 C CNN
-F 2 "" H -400 2550 50  0001 C CNN
-F 3 "" H -400 2550 50  0001 C CNN
-	1    -400 2550
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
@@ -1936,17 +1913,6 @@ F 3 "" H -9150 2950 50  0001 C CNN
 	1    -9150 2950
 	1    0    0    -1  
 $EndComp
-$Comp
-L mech7:power_GND #PWR0108
-U 1 1 613C9154
-P -9150 3550
-F 0 "#PWR0108" H -9150 3300 50  0001 C CNN
-F 1 "power_GND" H -9145 3377 50  0000 C CNN
-F 2 "" H -9150 3550 50  0001 C CNN
-F 3 "" H -9150 3550 50  0001 C CNN
-	1    -9150 3550
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	-8900 3550 -9150 3550
 Connection ~ -8900 3550
@@ -2131,17 +2097,6 @@ F 3 "" H -400 3950 50  0001 C CNN
 	1    -400 3950
 	-1   0    0    -1  
 $EndComp
-$Comp
-L mech7:power_GND #PWR0110
-U 1 1 613DDB87
-P -400 4550
-F 0 "#PWR0110" H -400 4300 50  0001 C CNN
-F 1 "power_GND" H -395 4377 50  0000 C CNN
-F 2 "" H -400 4550 50  0001 C CNN
-F 3 "" H -400 4550 50  0001 C CNN
-	1    -400 4550
-	-1   0    0    -1  
-$EndComp
 Wire Wire Line
 	-650 4550 -400 4550
 Connection ~ -650 4550
@@ -2275,11 +2230,6 @@ F 3 "~" H 8050 4350 50  0001 C CNN
 $EndComp
 Connection ~ 6050 4450
 Wire Wire Line
-	8400 1650 8400 4450
-Wire Wire Line
-	8400 4450 7850 4450
-Connection ~ 7850 4450
-Wire Wire Line
 	-9150 850  -8900 850 
 Wire Wire Line
 	-9150 1450 -8900 1450
@@ -2389,12 +2339,60 @@ Connection ~ 5250 3250
 Wire Wire Line
 	3050 4450 4850 4450
 NoConn ~ 8750 3450
-Text GLabel 8750 2750 0    50   Input ~ 0
+Text GLabel 8750 2650 0    50   Input ~ 0
 Row0
-Text GLabel 8750 3050 0    50   Input ~ 0
-Row3
 Text GLabel 8750 2950 0    50   Input ~ 0
-Row2
+Row3
 Text GLabel 8750 2850 0    50   Input ~ 0
+Row2
+Text GLabel 8750 2750 0    50   Input ~ 0
 Row1
+Text GLabel 8750 3050 0    50   Input ~ 0
+Row4
+Text GLabel 8400 1650 3    50   Input ~ 0
+Row4
+$Comp
+L power:GND #PWR?
+U 1 1 6140EDFB
+P -400 2550
+F 0 "#PWR?" H -400 2300 50  0001 C CNN
+F 1 "GND" H -395 2377 50  0000 C CNN
+F 2 "" H -400 2550 50  0001 C CNN
+F 3 "" H -400 2550 50  0001 C CNN
+	1    -400 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6143A185
+P -9150 1450
+F 0 "#PWR?" H -9150 1200 50  0001 C CNN
+F 1 "GND" H -9145 1277 50  0000 C CNN
+F 2 "" H -9150 1450 50  0001 C CNN
+F 3 "" H -9150 1450 50  0001 C CNN
+	1    -9150 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6144F63F
+P -9150 3550
+F 0 "#PWR?" H -9150 3300 50  0001 C CNN
+F 1 "GND" H -9145 3377 50  0000 C CNN
+F 2 "" H -9150 3550 50  0001 C CNN
+F 3 "" H -9150 3550 50  0001 C CNN
+	1    -9150 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 614CF2EA
+P -400 4550
+F 0 "#PWR?" H -400 4300 50  0001 C CNN
+F 1 "GND" H -395 4377 50  0000 C CNN
+F 2 "" H -400 4550 50  0001 C CNN
+F 3 "" H -400 4550 50  0001 C CNN
+	1    -400 4550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
